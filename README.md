@@ -18,6 +18,7 @@
 ### Projects
 
 [AI Agent With Tools](./ai-agent-with-tools/)
+
 [AI Chatbot Memory App](./ai-chatbot-memory-app/)
 [Celebrity Radar Agent](./celebrity-radar-agent/)
 [Chabot Agent With Tools](./chabot-agent-with-tools/)
