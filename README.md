@@ -13,3 +13,8 @@
 [![](https://visitcount.itsvg.in/api?id=rahulbana&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+### Projects
+
+[AI Agent With Tools](./ai-agent-with-tools/)
