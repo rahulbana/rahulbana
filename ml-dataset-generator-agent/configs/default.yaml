@@ -1,0 +1,22 @@
+# Default configuration for the ML Dataset Generator Agent.
+# Values here mirror app/config.py and can be overridden by environment variables.
+
+planner:
+  # "heuristic" (offline, no API key) or "llm".
+  backend: heuristic
+  # LLM provider: openai (default), anthropic, or litellm.
+  # Set OPENAI_API_KEY (and optionally OPENAI_BASE_URL) when using openai.
+  llm_provider: openai
+  llm_model: gpt-4o-mini
+
+generation:
+  # Safety cap on requested rows so a runaway prompt cannot exhaust memory.
+  max_rows: 2000000
+  default_rows: 1000
+  default_seed: 42
+
+output:
+  datasets_dir: datasets
+  reports_dir: reports
+  default_formats:
+    - csv
