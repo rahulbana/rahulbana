@@ -20,26 +20,47 @@
 [AI Agent With Tools](./ai-agent-with-tools/)
 
 [AI Chatbot Memory App](./ai-chatbot-memory-app/)
+
 [Celebrity Radar Agent](./celebrity-radar-agent/)
+
 [Chabot Agent With Tools](./chabot-agent-with-tools/)
+
 [Chunking Strategy Explorer](./chunking-strategy-explorer/)
+
 [Code Review CLI Agent](./code-review-cli-agent/)
+
 [Code Reviewer](./code-reviewer/)
+
 [Content Wwriter Studio App](./content-writer-studio-app/)
+
 [CS Insight Agent App](./csv-insight-agent-app/)
+
 [Deep Search Agent App](./deep-search-agent-2-app/)
+
 [Deep Search CLI Agent](./deep-search-cli-agent/)
+
 [Deep Search Web App](./deep-search-web-app/)
+
 [Demo AI Agent MCP Tool](./demo-ai-agent-mcp-tool/)
+
 [Desktop AI Assistant App](./desktop-ai-assistant-app/)
+
 [Desktop Cosing Agent](./desktop-coding-agent/)
+
 [Destival Date Agent](./festival-date-agent/)
+
 [ML Dataset Generator Agent](./ml-dataset-generator-agent/)
+
 [Multi Agent Code Generator](./multi-agent-code-generator/)
+
 [Multi Agent Study Planner App](./multi-agent-study-planner-app/)
+
 [Presentation Formation Agent](./presentation-formation-agent/)
+
 [Resume Rater Agent](./resume-rater-agent/)
+
 [Web Grounded Fact Checking CLI Agent](./web-grounded-fact-checking-cli-agent/)
+
 [What Happened on That Date](./what-happened-on-that-date/)
 
 
