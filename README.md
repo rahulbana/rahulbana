@@ -20,7 +20,7 @@
 
 [Code Reviewer](./code-reviewer/)
 
-[Content Wwriter Studio App](./content-writer-studio-app/)
+[Content Writer Studio App](./content-writer-studio-app/)
 
 [CS Insight Agent App](./csv-insight-agent-app/)
 
