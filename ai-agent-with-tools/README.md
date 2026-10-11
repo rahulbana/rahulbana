@@ -19,6 +19,83 @@ tools:
 Everything is plain Python — the whole agent loop is ~60 readable lines in
 [`app/agent.py`](app/agent.py).
 
+## Screenshots
+
+Real runs of the agent, one group per tool.
+
+### Tool list
+
+![Startup banner and registered tools](screenshots/00_startup_tools.png)
+*Startup banner and registered tools*
+
+### Database (`db_get_schema`, `db_run_sql`)
+
+![Inspecting the schema](screenshots/01_database_schema.png)
+*Inspecting the schema*
+
+![Orders by status and delivered revenue](screenshots/02_database_orders_by_status.png)
+*Orders by status and delivered revenue*
+
+![Top customers and best-selling products](screenshots/03_database_top_products.png)
+*Top customers and best-selling products*
+
+![Write attempt blocked (read-only by default)](screenshots/04_database_write_blocked.png)
+*Write attempt blocked (read-only by default)*
+
+### Calculator (`calculator`)
+
+![Cart total with GST](screenshots/05_calculator_cart_gst.png)
+*Cart total with GST*
+
+![Margin, markup and expressions](screenshots/06_calculator_margin.png)
+*Margin, markup and expressions*
+
+### Web search (`web_search`)
+
+![Latest news lookup](screenshots/07_web_search_news.png)
+*Latest news lookup*
+
+![Quick fact lookup](screenshots/08_web_search_fact.png)
+*Quick fact lookup*
+
+### Deep web search (`deep_web_search`)
+
+![Research: reducing return rates](screenshots/09_deep_search_returns.png)
+*Research: reducing return rates*
+
+![Research: AI personalization trends](screenshots/10_deep_search_trends.png)
+*Research: AI personalization trends*
+
+### File system (`fs_*`)
+
+![Write a file](screenshots/11_filesystem_write.png)
+*Write a file*
+
+![List and read](screenshots/12_filesystem_list_read.png)
+*List and read*
+
+![Delete a file](screenshots/13_filesystem_delete.png)
+*Delete a file*
+
+![Path outside the sandbox refused](screenshots/14_filesystem_sandbox_escape.png)
+*Path outside the sandbox refused*
+
+### Email send (`send_email`, dry run)
+
+![Dry-run send](screenshots/15_email_send_dry_run.png)
+*Dry-run send*
+
+![Invalid recipient](screenshots/16_email_send_invalid.png)
+*Invalid recipient*
+
+### Shell (`run_shell`)
+
+![System info commands](screenshots/17_shell_system_info.png)
+*System info commands*
+
+![Python version and directory listing](screenshots/18_shell_disk_python.png)
+*Python version and directory listing*
+
 ## Architecture
 
 ```
