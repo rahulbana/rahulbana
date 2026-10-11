@@ -21,6 +21,40 @@ long-term memory**, instrumented end-to-end with **Langfuse**.
 If embeddings are unavailable, long-term retrieval gracefully falls back to
 the most recent memories.
 
+## Screenshots
+
+Real run of the app: register, chat, and recall across sessions.
+
+![Login page](screenshots/01_login.png)
+*Login page*
+
+![Registration form](screenshots/02_register.png)
+*Registration form*
+
+![Empty chat](screenshots/03_chat_empty.png)
+*Empty chat*
+
+![First message: introducing myself](screenshots/04_chat_first_message.png)
+*First message: introducing myself*
+
+![Follow-up using short-term memory](screenshots/05_chat_followup_short_term.png)
+*Follow-up using short-term memory*
+
+![Long-term memory panel](screenshots/06_long_term_memory_panel.png)
+*Long-term memory panel*
+
+![New chat session](screenshots/07_new_chat_session.png)
+*New chat session*
+
+![Recall across sessions (long-term memory)](screenshots/08_cross_session_recall.png)
+*Recall across sessions (long-term memory)*
+
+![Chat with the memory panel open](screenshots/09_memory_panel_after_recall.png)
+*Chat with the memory panel open*
+
+![Logged out](screenshots/10_logged_out.png)
+*Logged out*
+
 ## Project layout
 
 ```
