@@ -46,6 +46,28 @@ interactive, descriptive charts.
 
 ---
 
+## Screenshots
+
+Real run against OpenAI (`gpt-4o-mini`). The main run used a 600-row demo orders file with mixed column types, missing values and outliers.
+
+![Upload page](screenshots/01_upload_landing.png)
+*Upload page*
+
+![Bundled 10-row sample, analyzed](screenshots/02_small_sample_insights.png)
+*Bundled 10-row sample, analyzed*
+
+![Insights tab: overview, AI narrative, key inferences, suggested questions](screenshots/04_overview_insights_full.png)
+*Insights tab: overview, AI narrative, key inferences, suggested questions*
+
+![Charts tab: 9 interactive charts](screenshots/05_charts_full.png)
+*Charts tab: 9 interactive charts*
+
+![Columns tab: per-column profile](screenshots/06_columns_full.png)
+*Columns tab: per-column profile*
+
+![Data tab: preview of the uploaded rows](screenshots/07_data_preview_full.png)
+*Data tab: preview of the uploaded rows*
+
 ## Project layout
 
 ```
