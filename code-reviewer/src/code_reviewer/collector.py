@@ -1,3 +1,9 @@
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 """Walk a directory and collect source files for a given language."""
 
 from __future__ import annotations

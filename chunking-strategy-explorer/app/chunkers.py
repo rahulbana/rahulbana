@@ -1,3 +1,9 @@
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 """Chunking strategies.
 
 Each strategy takes raw text plus a set of parameters and returns a list of
@@ -303,7 +309,7 @@ def semantic(text: str, breakpoint_percentile: int = 90, max_sentences: int = 20
 
     client = OpenAI(api_key=api_key)
     resp = client.embeddings.create(
-        model="text-embedding-3-small",
+        model=os.getenv("OPENAI_EMBEDDING_MODEL", "text-embedding-3-small"),
         input=[s.strip() for s in sents],
     )
     vectors = [d.embedding for d in resp.data]

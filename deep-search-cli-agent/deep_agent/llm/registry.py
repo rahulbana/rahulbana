@@ -1,3 +1,9 @@
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 """Registry of available LLM providers.
 
 Built-in providers register themselves on import (see ``providers.py``).

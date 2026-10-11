@@ -1,3 +1,9 @@
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 """Models for persisted agent runs (the run-history / tracing store)."""
 from __future__ import annotations
 

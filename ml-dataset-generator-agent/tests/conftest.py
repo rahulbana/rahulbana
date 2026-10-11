@@ -1,3 +1,9 @@
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 """Shared test fixtures.
 
 Tests must be deterministic and offline: they never depend on a real OpenAI key

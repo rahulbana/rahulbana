@@ -1,3 +1,9 @@
+// ---------------------------------------------------------------------------
+// Name:     Rahul Singh Bana
+// Email:    bana.saa@gmail.com
+// LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+// Repo:     https://github.com/rahulbana/rahulbana
+// ---------------------------------------------------------------------------
 import axios from "axios";
 
 const baseURL = (import.meta.env.VITE_API_URL || "") + "/api/v1";

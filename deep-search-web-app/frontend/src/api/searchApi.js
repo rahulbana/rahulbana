@@ -1,3 +1,9 @@
+// ---------------------------------------------------------------------------
+// Name:     Rahul Singh Bana
+// Email:    bana.saa@gmail.com
+// LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+// Repo:     https://github.com/rahulbana/rahulbana
+// ---------------------------------------------------------------------------
 // Typed access to the backend API. streamSearch is an async generator that
 // yields each agent progress event as it arrives.
 import { config } from "../config";

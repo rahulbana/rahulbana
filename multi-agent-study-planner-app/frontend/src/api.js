@@ -1,3 +1,9 @@
+// ---------------------------------------------------------------------------
+// Name:     Rahul Singh Bana
+// Email:    bana.saa@gmail.com
+// LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+// Repo:     https://github.com/rahulbana/rahulbana
+// ---------------------------------------------------------------------------
 // API helper. Streams Server-Sent Events from the FastAPI backend.
 // EventSource only supports GET, so we POST with fetch and parse the stream.
 

@@ -1,3 +1,9 @@
+// ---------------------------------------------------------------------------
+// Name:     Rahul Singh Bana
+// Email:    bana.saa@gmail.com
+// LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+// Repo:     https://github.com/rahulbana/rahulbana
+// ---------------------------------------------------------------------------
 // Encapsulates a deep-search run: streaming, state, and event reduction.
 // Components consume the returned state and call start()/cancel().
 import { useCallback, useReducer, useRef } from "react";

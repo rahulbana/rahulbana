@@ -1,3 +1,9 @@
+// ---------------------------------------------------------------------------
+// Name:     Rahul Singh Bana
+// Email:    bana.saa@gmail.com
+// LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+// Repo:     https://github.com/rahulbana/rahulbana
+// ---------------------------------------------------------------------------
 import { app, BrowserWindow, dialog, ipcMain, shell } from 'electron'
 import { join } from 'path'
 import { existsSync } from 'fs'

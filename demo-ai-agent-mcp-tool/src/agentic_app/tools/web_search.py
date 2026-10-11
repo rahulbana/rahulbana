@@ -1,3 +1,9 @@
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 """Web search tools: Tavily (keyed, high quality) and DuckDuckGo (keyless).
 
 Both are exposed as OpenAI Agents `function_tool`s. They degrade gracefully:

@@ -1,3 +1,9 @@
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 from app.graph.nodes.plan import plan_node
 from app.graph.nodes.read import read_node
 from app.graph.nodes.reflect import reflect_node, route_after_reflect

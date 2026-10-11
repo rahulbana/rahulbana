@@ -1,3 +1,9 @@
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 """Export agent: write the dataset and its docs to disk in many formats.
 
 Supported: csv, parquet, json, excel, sqlite, and a portable SQL ``CREATE TABLE``

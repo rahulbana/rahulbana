@@ -1,3 +1,9 @@
+// ---------------------------------------------------------------------------
+// Name:     Rahul Singh Bana
+// Email:    bana.saa@gmail.com
+// LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+// Repo:     https://github.com/rahulbana/rahulbana
+// ---------------------------------------------------------------------------
 // Parses a fetch Response body (ReadableStream) of Server-Sent Events into a
 // stream of parsed JSON event objects. EventSource only supports GET, so we
 // parse the SSE frames ourselves to allow POST.

@@ -1,15 +1,26 @@
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 """Configuration: models and the roster of specialized search sub-agents."""
 
 from __future__ import annotations
 
+import os
 from dataclasses import dataclass, field
+
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Default to a capable model that supports the Responses API web_search tool and
 # reasoning effort. The synthesis step does the heavy reasoning (high effort); the
 # search sub-agents run at low effort to stay cheap and fast since the web_search
 # tool does most of their work.
-ORCHESTRATOR_MODEL = "gpt-5"
-SUBAGENT_MODEL = "gpt-5"
+ORCHESTRATOR_MODEL = os.getenv("ORCHESTRATOR_MODEL") or os.getenv("OPENAI_MODEL", "gpt-5")
+SUBAGENT_MODEL = os.getenv("SUBAGENT_MODEL") or os.getenv("OPENAI_MODEL", "gpt-5")
 
 
 @dataclass(frozen=True)

@@ -1,3 +1,9 @@
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 """Chunking Strategy Explorer — FastAPI application.
 
 Upload a text document, pick a chunking strategy, tune its parameters, and see
@@ -13,6 +19,7 @@ import io
 import os
 from pathlib import Path
 
+from dotenv import load_dotenv
 from fastapi import FastAPI, Form, HTTPException, UploadFile, File
 from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
@@ -21,6 +28,8 @@ from starlette.requests import Request
 
 from .chunkers import STRATEGIES, run_strategy
 from .stats import analyze
+
+load_dotenv()
 
 BASE_DIR = Path(__file__).resolve().parent
 

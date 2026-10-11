@@ -1,3 +1,9 @@
+-- ---------------------------------------------------------------------------
+-- Name:     Rahul Singh Bana
+-- Email:    bana.saa@gmail.com
+-- LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+-- Repo:     https://github.com/rahulbana/rahulbana
+-- ---------------------------------------------------------------------------
 -- Schema for the desktop AI coding agent (FastAPI backend).
 CREATE TABLE IF NOT EXISTS conversations (
   id           UUID PRIMARY KEY,

@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 """Convenience entry point so the agent can be run as `python on_this_day.py`.
 
 Equivalent to `python -m history_agent.cli`, but also loads environment variables

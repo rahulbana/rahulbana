@@ -1,3 +1,9 @@
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 """Tool-usage tracking via the Agents SDK lifecycle hooks.
 
 `ToolUsageTracker` subscribes to `on_tool_start` / `on_tool_end` and labels every

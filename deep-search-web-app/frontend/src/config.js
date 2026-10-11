@@ -1,3 +1,9 @@
+// ---------------------------------------------------------------------------
+// Name:     Rahul Singh Bana
+// Email:    bana.saa@gmail.com
+// LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+// Repo:     https://github.com/rahulbana/rahulbana
+// ---------------------------------------------------------------------------
 // Runtime configuration, sourced from Vite env vars (VITE_*) with sensible
 // defaults. In dev, apiBase is empty so requests hit the Vite proxy (/api ->
 // backend). In production set VITE_API_BASE to the backend origin.

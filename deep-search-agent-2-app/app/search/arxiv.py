@@ -1,3 +1,9 @@
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 """arXiv backend — keyless academic search via the arXiv Atom API.
 
 Stands in for the "arxiv MCP" backend named in the spec: same role (peer-reviewed

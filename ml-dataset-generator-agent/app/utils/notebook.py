@@ -1,3 +1,9 @@
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 """Build a runnable Jupyter EDA notebook (.ipynb) for a generated dataset.
 
 The notebook is emitted as plain ``nbformat`` v4 JSON (no dependency on the

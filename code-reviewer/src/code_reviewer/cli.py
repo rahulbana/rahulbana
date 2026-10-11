@@ -1,3 +1,9 @@
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 """Command-line entry point for the code reviewer."""
 
 from __future__ import annotations
@@ -35,7 +41,7 @@ def review(
         ..., "--language", "-l", help="Programming language of the code."
     ),
     model: str = typer.Option(
-        "gpt-4o-mini", "--model", "-m", help="OpenAI model to use."
+        os.getenv("OPENAI_MODEL", "gpt-4o-mini"), "--model", "-m", help="OpenAI model to use (default: $OPENAI_MODEL)."
     ),
     categories: Optional[List[str]] = typer.Option(
         None,

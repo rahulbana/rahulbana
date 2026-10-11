@@ -1,3 +1,9 @@
+-- ---------------------------------------------------------------------------
+-- Name:     Rahul Singh Bana
+-- Email:    bana.saa@gmail.com
+-- LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+-- Repo:     https://github.com/rahulbana/rahulbana
+-- ---------------------------------------------------------------------------
 -- ===========================================================================
 -- Ecommerce schema (SQLite dialect).
 -- Written to be Postgres-friendly: swap AUTOINCREMENT for SERIAL/IDENTITY and

@@ -1,3 +1,9 @@
+# ---------------------------------------------------------------------------
+# Name:     Rahul Singh Bana
+# Email:    bana.saa@gmail.com
+# LinkedIn: https://www.linkedin.com/in/rahulsinghbana
+# Repo:     https://github.com/rahulbana/rahulbana
+# ---------------------------------------------------------------------------
 """LLM client wrapper supporting OpenAI and Ollama (OpenAI-compatible API).
 
 Both providers use the `openai` SDK; Ollama is reached by pointing `base_url`
