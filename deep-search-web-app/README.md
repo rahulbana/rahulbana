@@ -22,6 +22,57 @@ over **Server-Sent Events**, so you can watch the backend work live.
 └──────────────┘                            └─────────────────────────────┘
 ```
 
+## Screenshots
+
+Real run with OpenAI (`gpt-4o-mini`) and Tavily on "What are the latest advances in solid-state batteries?".
+
+### Search
+
+![Search page](screenshots/01_landing.png)
+*Search page*
+
+![History tab, no runs yet](screenshots/02_history_empty.png)
+*History tab, no runs yet*
+
+![Question entered](screenshots/03_question_entered.png)
+*Question entered*
+
+### Live agent activity
+
+![Run in progress (1)](screenshots/04_running_1.png)
+*Run in progress (1)*
+
+![Run in progress (2): sub-queries, searches and sources streaming in](screenshots/04_running_2.png)
+*Run in progress (2): sub-queries, searches and sources streaming in*
+
+![Run in progress (3)](screenshots/04_running_3.png)
+*Run in progress (3)*
+
+![Run in progress (4)](screenshots/04_running_4.png)
+*Run in progress (4)*
+
+### Report
+
+![Finished run](screenshots/05_complete.png)
+*Finished run*
+
+![Finished run (full page): cited report and resources](screenshots/06_complete_full.png)
+*Finished run (full page): cited report and resources*
+
+### History and API
+
+![Run history](screenshots/07_history_with_run.png)
+*Run history*
+
+![Saved run detail](screenshots/08_run_detail.png)
+*Saved run detail*
+
+![Saved run detail (full page)](screenshots/09_run_detail_full.png)
+*Saved run detail (full page)*
+
+![API docs (FastAPI /docs)](screenshots/10_api_docs.png)
+*API docs (FastAPI /docs)*
+
 ## Project layout
 
 The backend is organised into clean, swappable layers (config/transport,
