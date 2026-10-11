@@ -1,4 +1,4 @@
-# rnd-cb — Memory Chatbot Agent
+# Memory Chatbot Agent
 
 A CLI chatbot agent with **short-term** and **long-term** memory, built with
 **Python + OpenAI + LangGraph**. Multiple users can share one install — each
