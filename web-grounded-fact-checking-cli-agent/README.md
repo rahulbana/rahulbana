@@ -76,6 +76,28 @@ A color-coded verdict with a confidence score, a grounded conclusion, key
 findings (each citing a source like `[2]`), and a table of every source with its
 stance (`SUPPORTS` / `REFUTES` / `NEUTRAL`) and a one-line note.
 
+## Screenshots
+
+Real runs with `gpt-4o` and Tavily. Each image is the actual terminal output: drafted queries, verdict with confidence, conclusion, key findings and per-source stances.
+
+![--help](screenshots/01_help.png)
+*--help*
+
+![Verdict TRUE: "Bananas are technically berries"](screenshots/02_verdict_true.png)
+*Verdict TRUE: "Bananas are technically berries"*
+
+![Verdict FALSE: Great Wall visible from space](screenshots/03_verdict_false.png)
+*Verdict FALSE: Great Wall visible from space*
+
+![Verdict PARTIALLY TRUE: "Vitamin C prevents the common cold"](screenshots/04_verdict_partially_true.png)
+*Verdict PARTIALLY TRUE: "Vitamin C prevents the common cold"*
+
+![Claim piped in through stdin](screenshots/05_stdin_claim.png)
+*Claim piped in through stdin*
+
+![Verdict UNVERIFIED: not enough evidence in the gathered sources](screenshots/06_verdict_unverified.png)
+*Verdict UNVERIFIED: not enough evidence in the gathered sources*
+
 ## Project layout
 
 ```
