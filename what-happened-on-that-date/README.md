@@ -20,6 +20,62 @@ used. And before anything is shown to you, a **second, independent verifier
 agent** re-searches the web to fact-check the first agent's draft — correcting
 errors and flagging anything it can't confirm.
 
+## Screenshots
+
+Real runs with `gpt-4o`. Each console image is the actual terminal output.
+
+### Command line
+
+![--help](screenshots/01_help.png)
+*--help*
+
+![--version and invalid-date error](screenshots/02_version_and_invalid_date.png)
+*--version and invalid-date error*
+
+### Exact date, researcher only (--no-verify): 20 July 1969
+
+![Output, part 1](screenshots/03_exact_date_no_verify_part1.png)
+*Output, part 1*
+
+![Output, part 2](screenshots/03_exact_date_no_verify_part2.png)
+*Output, part 2*
+
+![Output, part 3](screenshots/03_exact_date_no_verify_part3.png)
+*Output, part 3*
+
+### Exact date, researcher + independent verifier: 7 July 1984
+
+![Output, part 1](screenshots/04_exact_date_verified_part1.png)
+*Output, part 1*
+
+![Output, part 2](screenshots/04_exact_date_verified_part2.png)
+*Output, part 2*
+
+![Output, part 3](screenshots/04_exact_date_verified_part3.png)
+*Output, part 3*
+
+### This day in history with --country India: 21 July
+
+![Output, part 1](screenshots/05_this_day_in_history_india_part1.png)
+*Output, part 1*
+
+![Output, part 2](screenshots/05_this_day_in_history_india_part2.png)
+*Output, part 2*
+
+![Output, part 3](screenshots/05_this_day_in_history_india_part3.png)
+*Output, part 3*
+
+![Output, part 4](screenshots/05_this_day_in_history_india_part4.png)
+*Output, part 4*
+
+![Output, part 5](screenshots/05_this_day_in_history_india_part5.png)
+*Output, part 5*
+
+### PDF report
+
+![Generated PDF, first page](screenshots/06_pdf_report_first_page.png)
+*Generated PDF, first page*
+
 ## Setup
 
 ```bash
