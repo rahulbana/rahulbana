@@ -1,0 +1,5 @@
+# Local SQLite databases created at runtime (keep data/.gitkeep)
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm

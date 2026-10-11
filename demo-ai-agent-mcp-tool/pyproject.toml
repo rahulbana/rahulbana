@@ -17,7 +17,7 @@ dependencies = [
     "openai>=1.55.0",
 
     # Remote MCP server (SQLite-backed client directory)
-    "mcp>=1.9.0",
+    "mcp>=1.9.0,<2",
     "uvicorn>=0.30.0",
 
     # Tools

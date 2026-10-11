@@ -32,6 +32,52 @@ support, function tools, and a first-class MCP client.
 └────────────────────────────────────────────────────────────┘
 ```
 
+### Screenshots
+
+Real run with `gpt-4o`: the MCP server in one process, the chat in another. Each image is the actual terminal output, including the `[MCP]` / `[CUSTOM]` / `[WEB]` tool-usage tracking.
+
+#### Setup
+
+![Seeding clients and starting the remote MCP server](screenshots/01_seed_and_mcp_server.png)
+*Seeding clients and starting the remote MCP server*
+
+#### MCP client-directory tools
+
+![Chat start and list_clients](screenshots/02_chat_start_list_clients.png)
+*Chat start and list_clients*
+
+![count_clients](screenshots/03_count_clients.png)
+*count_clients*
+
+![search_clients](screenshots/04_search_clients.png)
+*search_clients*
+
+![add_client](screenshots/05_add_client.png)
+*add_client*
+
+![Required fields: the agent asks for what is missing](screenshots/06_add_client_missing_fields.png)
+*Required fields: the agent asks for what is missing*
+
+![get_client](screenshots/07_get_client.png)
+*get_client*
+
+![update_client](screenshots/08_update_client.png)
+*update_client*
+
+![delete_client](screenshots/12_delete_client.png)
+*delete_client*
+
+#### Custom and web tools
+
+![convert_currency (custom tool)](screenshots/09_currency_converter.png)
+*convert_currency (custom tool)*
+
+![web_search_tavily (web search)](screenshots/10_web_search_tavily.png)
+*web_search_tavily (web search)*
+
+![MCP and custom tool in a single turn](screenshots/11_combined_mcp_and_currency.png)
+*MCP and custom tool in a single turn*
+
 ### Layout
 
 ```
