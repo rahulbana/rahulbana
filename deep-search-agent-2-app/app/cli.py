@@ -23,8 +23,8 @@ from app.models.schemas import JobStatus, ResearchDepth, ResearchRequest
 
 async def _run(args: argparse.Namespace) -> int:
     settings = get_settings()
-    if not settings.anthropic_api_key:
-        print("ERROR: ANTHROPIC_API_KEY is not set.", file=sys.stderr)
+    if not settings.llm_api_key:
+        print(f"ERROR: {settings.llm_api_key_name} is not set (LLM_PROVIDER={settings.provider}).", file=sys.stderr)
         return 2
 
     manager = JobManager(settings, run_factuality=not args.no_eval)

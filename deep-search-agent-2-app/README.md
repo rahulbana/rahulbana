@@ -13,6 +13,39 @@ factuality gate on the output.
 
 ---
 
+## Screenshots
+
+Real run with `LLM_PROVIDER=openai` (`gpt-4o-mini` / `gpt-4o`), Quick depth, Tavily search. The run found 45 sources over 2 iterations, cost about $0.16 and scored 100% on the factuality check.
+
+![Research form](screenshots/01_landing.png)
+*Research form*
+
+![Topic, audience, depth and focus areas filled in](screenshots/02_form_filled.png)
+*Topic, audience, depth and focus areas filled in*
+
+![Run started](screenshots/03_progress_started.png)
+*Run started*
+
+![Live progress: planning and searching](screenshots/04_progress_running.png)
+*Live progress: planning and searching*
+
+![Live progress: search, read, reflect, synthesize, evaluate](screenshots/05_progress_running.png)
+*Live progress: search, read, reflect, synthesize, evaluate*
+
+![Run complete, with PDF/Word/Markdown downloads](screenshots/09_progress_complete.png)
+*Run complete, with PDF/Word/Markdown downloads*
+
+![Report: top of the page](screenshots/10_report_top.png)
+*Report: top of the page*
+
+![Report (full page): executive summary, findings, references](screenshots/11_report_full.png)
+*Report (full page): executive summary, findings, references*
+
+![API docs (FastAPI /docs)](screenshots/12_api_docs.png)
+*API docs (FastAPI /docs)*
+
+---
+
 ## Architecture
 
 ```
@@ -55,7 +88,7 @@ app/
   eval/factuality.py     # LLM-as-judge grounding score
   export/                # Word (.docx) + PDF exporters
   jobs/manager.py        # async job queue + progress pub/sub
-  llm.py                 # langchain-anthropic wrapper + token accounting
+  llm.py                 # switchable LLM provider (Anthropic / OpenAI) + token accounting
   observability.py       # Langfuse tracing (optional)
   main.py                # FastAPI + SSE streaming
   cli.py                 # terminal entry point
@@ -91,12 +124,26 @@ tests/                   # pure-logic unit tests (dedup, credibility, budget, ci
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[dev]"
-cp .env.example .env      # then fill in ANTHROPIC_API_KEY and any search keys
+cp .env.example .env      # then pick LLM_PROVIDER and fill in the matching API key and any search keys
 ```
 
-Only `ANTHROPIC_API_KEY` is strictly required. Search backends are opt-in: the
+Only the API key for your chosen provider is strictly required (see below). Search backends are opt-in: the
 aggregator uses whatever has a key, plus keyless **arxiv** always. Without
 `DATABASE_URL` it falls back to an in-memory checkpointer (no crash recovery).
+
+### Choosing the LLM provider
+
+Set `LLM_PROVIDER` in `.env` to switch the whole pipeline (planning, reflection,
+synthesis and the factuality judge):
+
+| `LLM_PROVIDER` | Key | Models (fast / smart) |
+|---|---|---|
+| `anthropic` (default) | `ANTHROPIC_API_KEY` | `FAST_MODEL` / `SMART_MODEL` (default Claude Haiku / Sonnet) |
+| `openai` | `OPENAI_API_KEY` | `OPENAI_FAST_MODEL` / `OPENAI_SMART_MODEL` (default `gpt-4o-mini` / `gpt-4o`) |
+
+`OPENAI_BASE_URL` is optional, for OpenAI-compatible gateways. `/healthz` reports
+the active provider. Cost caps use a per-model price table in `app/budget.py`;
+unknown models fall back to a conservative default price.
 
 ### 2. Optional: Postgres for durable checkpoints
 

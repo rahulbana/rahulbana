@@ -49,7 +49,8 @@ async def healthz():
         "backends": s.enabled_backends(),
         "checkpointer": "postgres" if s.has_postgres else "memory",
         "langfuse": s.has_langfuse,
-        "llm_configured": bool(s.anthropic_api_key),
+        "llm_provider": s.provider,
+        "llm_configured": bool(s.llm_api_key),
     }
 
 

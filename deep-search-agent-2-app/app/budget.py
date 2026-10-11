@@ -27,6 +27,10 @@ _PRICE_PER_MTOK: dict[str, tuple[float, float]] = {
     "claude-opus-5": (15.0, 75.0),
     "claude-sonnet-5": (3.0, 15.0),
     "claude-haiku-4-5-20251001": (1.0, 5.0),
+    "gpt-4o": (2.5, 10.0),
+    "gpt-4o-mini": (0.15, 0.60),
+    "gpt-4.1": (2.0, 8.0),
+    "gpt-4.1-mini": (0.40, 1.60),
 }
 _DEFAULT_PRICE = (5.0, 25.0)
 _COST_PER_SEARCH = 0.004  # blended estimate across paid backends

@@ -17,10 +17,19 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(env_file=".env", env_file_encoding="utf-8", extra="ignore")
 
-    # LLM
+    # LLM provider: "anthropic" or "openai"
+    llm_provider: str = Field(default="anthropic", alias="LLM_PROVIDER")
+
+    # Anthropic (FAST_MODEL / SMART_MODEL are the legacy names for these two)
     anthropic_api_key: str = Field(default="", alias="ANTHROPIC_API_KEY")
     fast_model: str = Field(default="claude-haiku-4-5-20251001", alias="FAST_MODEL")
     smart_model: str = Field(default="claude-sonnet-5", alias="SMART_MODEL")
+
+    # OpenAI (base URL is optional, for OpenAI-compatible gateways)
+    openai_api_key: str = Field(default="", alias="OPENAI_API_KEY")
+    openai_base_url: str = Field(default="", alias="OPENAI_BASE_URL")
+    openai_fast_model: str = Field(default="gpt-4o-mini", alias="OPENAI_FAST_MODEL")
+    openai_smart_model: str = Field(default="gpt-4o", alias="OPENAI_SMART_MODEL")
 
     # Search backends
     tavily_api_key: str = Field(default="", alias="TAVILY_API_KEY")
@@ -40,6 +49,29 @@ class Settings(BaseSettings):
     max_usd_cost: float = Field(default=2.50, alias="MAX_USD_COST")
     max_searches_per_iteration: int = Field(default=6, alias="MAX_SEARCHES_PER_ITERATION")
     max_sources: int = Field(default=40, alias="MAX_SOURCES")
+
+    @property
+    def provider(self) -> str:
+        p = self.llm_provider.strip().lower()
+        if p not in ("anthropic", "openai"):
+            raise ValueError(f"LLM_PROVIDER must be 'anthropic' or 'openai', got {self.llm_provider!r}")
+        return p
+
+    @property
+    def llm_api_key(self) -> str:
+        return self.openai_api_key if self.provider == "openai" else self.anthropic_api_key
+
+    @property
+    def llm_api_key_name(self) -> str:
+        return "OPENAI_API_KEY" if self.provider == "openai" else "ANTHROPIC_API_KEY"
+
+    @property
+    def active_fast_model(self) -> str:
+        return self.openai_fast_model if self.provider == "openai" else self.fast_model
+
+    @property
+    def active_smart_model(self) -> str:
+        return self.openai_smart_model if self.provider == "openai" else self.smart_model
 
     @property
     def has_postgres(self) -> bool:
