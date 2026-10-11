@@ -23,6 +23,66 @@ On each turn the agent:
 3. Lets the model **save new facts** via the `save_memory` tool and dig for
    more via `search_long_term_memory`.
 
+### Screenshots
+
+Real run of the CLI. Each image is the actual terminal output.
+
+#### Memory
+
+![Startup and saving a fact (save_memory)](screenshots/01_startup_and_memory_save.png)
+*Startup and saving a fact (save_memory)*
+
+![/memories lists long-term facts](screenshots/02_memories_list.png)
+*/memories lists long-term facts*
+
+#### Tools
+
+![current_time](screenshots/03_tool_current_time.png)
+*current_time*
+
+![convert_currency](screenshots/04_tool_convert_currency.png)
+*convert_currency*
+
+![convert_units](screenshots/05_tool_convert_units.png)
+*convert_units*
+
+![web_search (Tavily)](screenshots/06_tool_web_search.png)
+*web_search (Tavily)*
+
+![ip_lookup](screenshots/07_tool_ip_lookup.png)
+*ip_lookup*
+
+![draft_email](screenshots/08_tool_draft_email.png)
+*draft_email*
+
+![translate_text](screenshots/09_tool_translate_text.png)
+*translate_text*
+
+![summarize_text](screenshots/10_tool_summarize_text.png)
+*summarize_text*
+
+#### Commands
+
+![/history](screenshots/11_history_command.png)
+*/history*
+
+![/whoami and /help](screenshots/12_whoami_help.png)
+*/whoami and /help*
+
+#### Long-term memory across restarts and conversations
+
+![After a restart: recall used for a snack suggestion](screenshots/13_restart_recall_snack.png)
+*After a restart: recall used for a snack suggestion*
+
+![Facts persist after restart](screenshots/14_memories_after_restart.png)
+*Facts persist after restart*
+
+![/new starts a fresh conversation, long-term memory kept](screenshots/15_new_conversation_recall.png)
+*/new starts a fresh conversation, long-term memory kept*
+
+![Recall of allergy and city](screenshots/16_recall_allergy_combined.png)
+*Recall of allergy and city*
+
 ### Graph
 
 ```
