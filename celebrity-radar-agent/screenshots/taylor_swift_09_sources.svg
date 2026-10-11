@@ -1,0 +1,210 @@
+<svg class="rich-terminal" viewBox="0 0 1360 977.1999999999999" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-3315436603-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-3315436603-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-3315436603-r1 { fill: #c5c8c6;font-weight: bold }
+.terminal-3315436603-r2 { fill: #c5c8c6 }
+.terminal-3315436603-r3 { fill: #68a0b3;font-weight: bold }
+.terminal-3315436603-r4 { fill: #1f5f9c;text-decoration: underline; }
+.terminal-3315436603-r5 { fill: #98a84b }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-3315436603-clip-terminal">
+      <rect x="0" y="0" width="1341.0" height="926.1999999999999" />
+    </clipPath>
+    <clipPath id="terminal-3315436603-line-0">
+    <rect x="0" y="1.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-1">
+    <rect x="0" y="25.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-2">
+    <rect x="0" y="50.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-3">
+    <rect x="0" y="74.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-4">
+    <rect x="0" y="99.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-5">
+    <rect x="0" y="123.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-6">
+    <rect x="0" y="147.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-7">
+    <rect x="0" y="172.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-8">
+    <rect x="0" y="196.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-9">
+    <rect x="0" y="221.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-10">
+    <rect x="0" y="245.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-11">
+    <rect x="0" y="269.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-12">
+    <rect x="0" y="294.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-13">
+    <rect x="0" y="318.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-14">
+    <rect x="0" y="343.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-15">
+    <rect x="0" y="367.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-16">
+    <rect x="0" y="391.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-17">
+    <rect x="0" y="416.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-18">
+    <rect x="0" y="440.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-19">
+    <rect x="0" y="465.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-20">
+    <rect x="0" y="489.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-21">
+    <rect x="0" y="513.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-22">
+    <rect x="0" y="538.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-23">
+    <rect x="0" y="562.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-24">
+    <rect x="0" y="587.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-25">
+    <rect x="0" y="611.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-26">
+    <rect x="0" y="635.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-27">
+    <rect x="0" y="660.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-28">
+    <rect x="0" y="684.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-29">
+    <rect x="0" y="709.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-30">
+    <rect x="0" y="733.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-31">
+    <rect x="0" y="757.9" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-32">
+    <rect x="0" y="782.3" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-33">
+    <rect x="0" y="806.7" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-34">
+    <rect x="0" y="831.1" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-35">
+    <rect x="0" y="855.5" width="1342" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-3315436603-line-36">
+    <rect x="0" y="879.9" width="1342" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1358" height="975.2" rx="8"/><text class="terminal-3315436603-title" fill="#c5c8c6" text-anchor="middle" x="679" y="27">celebrity-radar&#160;·&#160;Taylor&#160;Swift&#160;·&#160;sources</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-3315436603-clip-terminal)">
+    
+    <g class="terminal-3315436603-matrix">
+    <text class="terminal-3315436603-r1" x="0" y="20" textLength="122" clip-path="url(#terminal-3315436603-line-0)">##&#160;Sources</text><text class="terminal-3315436603-r2" x="1342" y="20" textLength="12.2" clip-path="url(#terminal-3315436603-line-0)">
+</text><text class="terminal-3315436603-r2" x="1342" y="44.4" textLength="12.2" clip-path="url(#terminal-3315436603-line-1)">
+</text><text class="terminal-3315436603-r3" x="0" y="68.8" textLength="12.2" clip-path="url(#terminal-3315436603-line-2)">1</text><text class="terminal-3315436603-r2" x="12.2" y="68.8" textLength="24.4" clip-path="url(#terminal-3315436603-line-2)">.&#160;</text><text class="terminal-3315436603-r2" x="36.6" y="68.8" textLength="854" clip-path="url(#terminal-3315436603-line-2)">Taylor&#160;Swift&#160;becomes&#160;most-awarded&#160;artist&#160;in&#160;MTV&#160;VMAs&#160;history,&#160;dedicate</text><text class="terminal-3315436603-r2" x="1342" y="68.8" textLength="12.2" clip-path="url(#terminal-3315436603-line-2)">
+</text><text class="terminal-3315436603-r4" x="0" y="93.2" textLength="732" clip-path="url(#terminal-3315436603-line-3)">https://apnews.com/article/2b6b26f83f6f5d3bd36d0ce9824e11c0?</text><text class="terminal-3315436603-r2" x="1342" y="93.2" textLength="12.2" clip-path="url(#terminal-3315436603-line-3)">
+</text><text class="terminal-3315436603-r3" x="0" y="117.6" textLength="12.2" clip-path="url(#terminal-3315436603-line-4)">2</text><text class="terminal-3315436603-r2" x="12.2" y="117.6" textLength="24.4" clip-path="url(#terminal-3315436603-line-4)">.&#160;</text><text class="terminal-3315436603-r2" x="36.6" y="117.6" textLength="634.4" clip-path="url(#terminal-3315436603-line-4)">Taylor&#160;Swift&#160;to&#160;Attend&#160;CMA&#160;Awards&#160;for&#160;First&#160;Time&#160;in&#160;</text><text class="terminal-3315436603-r3" x="671" y="117.6" textLength="24.4" clip-path="url(#terminal-3315436603-line-4)">10</text><text class="terminal-3315436603-r2" x="695.4" y="117.6" textLength="73.2" clip-path="url(#terminal-3315436603-line-4)">&#160;Years</text><text class="terminal-3315436603-r2" x="1342" y="117.6" textLength="12.2" clip-path="url(#terminal-3315436603-line-4)">
+</text><text class="terminal-3315436603-r4" x="0" y="142" textLength="732" clip-path="url(#terminal-3315436603-line-5)">https://au.variety.com/2026/music/news/taylor-swift-attendin</text><text class="terminal-3315436603-r2" x="1342" y="142" textLength="12.2" clip-path="url(#terminal-3315436603-line-5)">
+</text><text class="terminal-3315436603-r3" x="0" y="166.4" textLength="12.2" clip-path="url(#terminal-3315436603-line-6)">3</text><text class="terminal-3315436603-r2" x="12.2" y="166.4" textLength="24.4" clip-path="url(#terminal-3315436603-line-6)">.&#160;</text><text class="terminal-3315436603-r2" x="36.6" y="166.4" textLength="854" clip-path="url(#terminal-3315436603-line-6)">Taylor&#160;Swift&#160;and&#160;Travis&#160;Kelce&#x27;s&#160;love&#160;story,&#160;from&#160;friendship&#160;bracelets&#160;</text><text class="terminal-3315436603-r2" x="1342" y="166.4" textLength="12.2" clip-path="url(#terminal-3315436603-line-6)">
+</text><text class="terminal-3315436603-r4" x="0" y="190.8" textLength="732" clip-path="url(#terminal-3315436603-line-7)">https://apnews.com/article/deedf312935d9391dd244706b39c3965?</text><text class="terminal-3315436603-r2" x="1342" y="190.8" textLength="12.2" clip-path="url(#terminal-3315436603-line-7)">
+</text><text class="terminal-3315436603-r3" x="0" y="215.2" textLength="12.2" clip-path="url(#terminal-3315436603-line-8)">4</text><text class="terminal-3315436603-r2" x="12.2" y="215.2" textLength="24.4" clip-path="url(#terminal-3315436603-line-8)">.&#160;</text><text class="terminal-3315436603-r2" x="36.6" y="215.2" textLength="610" clip-path="url(#terminal-3315436603-line-8)">Taylor&#160;Swift&#160;Prevails&#160;in&#160;Poet&#x27;s&#160;Plagiarism&#160;Lawsuit</text><text class="terminal-3315436603-r2" x="1342" y="215.2" textLength="12.2" clip-path="url(#terminal-3315436603-line-8)">
+</text><text class="terminal-3315436603-r4" x="0" y="239.6" textLength="732" clip-path="url(#terminal-3315436603-line-9)">https://au.variety.com/2026/music/global/taylor-swift-wins-p</text><text class="terminal-3315436603-r2" x="1342" y="239.6" textLength="12.2" clip-path="url(#terminal-3315436603-line-9)">
+</text><text class="terminal-3315436603-r3" x="0" y="264" textLength="12.2" clip-path="url(#terminal-3315436603-line-10)">5</text><text class="terminal-3315436603-r2" x="12.2" y="264" textLength="24.4" clip-path="url(#terminal-3315436603-line-10)">.&#160;</text><text class="terminal-3315436603-r2" x="36.6" y="264" textLength="475.8" clip-path="url(#terminal-3315436603-line-10)">Taylor&#160;Swift&#160;and&#160;Travis&#160;Kelce&#160;Donated&#160;$</text><text class="terminal-3315436603-r3" x="512.4" y="264" textLength="24.4" clip-path="url(#terminal-3315436603-line-10)">26</text><text class="terminal-3315436603-r2" x="536.8" y="264" textLength="353.8" clip-path="url(#terminal-3315436603-line-10)">&#160;Million&#160;to&#160;Charities&#160;Ahead&#160;o</text><text class="terminal-3315436603-r2" x="1342" y="264" textLength="12.2" clip-path="url(#terminal-3315436603-line-10)">
+</text><text class="terminal-3315436603-r4" x="0" y="288.4" textLength="732" clip-path="url(#terminal-3315436603-line-11)">https://au.variety.com/2026/music/news/taylor-swift-travis-k</text><text class="terminal-3315436603-r2" x="1342" y="288.4" textLength="12.2" clip-path="url(#terminal-3315436603-line-11)">
+</text><text class="terminal-3315436603-r3" x="0" y="312.8" textLength="12.2" clip-path="url(#terminal-3315436603-line-12)">6</text><text class="terminal-3315436603-r2" x="12.2" y="312.8" textLength="24.4" clip-path="url(#terminal-3315436603-line-12)">.&#160;</text><text class="terminal-3315436603-r2" x="36.6" y="312.8" textLength="475.8" clip-path="url(#terminal-3315436603-line-12)">Taylor&#160;Swift&#160;Reveals&#160;Original&#160;Song&#160;for&#160;</text><text class="terminal-3315436603-r5" x="512.4" y="312.8" textLength="158.6" clip-path="url(#terminal-3315436603-line-12)">&#x27;Toy&#160;Story&#160;5&#x27;</text><text class="terminal-3315436603-r2" x="1342" y="312.8" textLength="12.2" clip-path="url(#terminal-3315436603-line-12)">
+</text><text class="terminal-3315436603-r4" x="0" y="337.2" textLength="732" clip-path="url(#terminal-3315436603-line-13)">https://au.variety.com/2026/music/global/taylor-swift-toy-st</text><text class="terminal-3315436603-r2" x="1342" y="337.2" textLength="12.2" clip-path="url(#terminal-3315436603-line-13)">
+</text><text class="terminal-3315436603-r3" x="0" y="361.6" textLength="12.2" clip-path="url(#terminal-3315436603-line-14)">7</text><text class="terminal-3315436603-r2" x="12.2" y="361.6" textLength="24.4" clip-path="url(#terminal-3315436603-line-14)">.&#160;</text><text class="terminal-3315436603-r2" x="36.6" y="361.6" textLength="280.6" clip-path="url(#terminal-3315436603-line-14)">Taylor&#160;Swift&#160;leads&#160;the&#160;</text><text class="terminal-3315436603-r3" x="317.2" y="361.6" textLength="48.8" clip-path="url(#terminal-3315436603-line-14)">2026</text><text class="terminal-3315436603-r2" x="366" y="361.6" textLength="524.6" clip-path="url(#terminal-3315436603-line-14)">&#160;iHeartRadio&#160;Music&#160;Award&#160;nominations,&#160;follo</text><text class="terminal-3315436603-r2" x="1342" y="361.6" textLength="12.2" clip-path="url(#terminal-3315436603-line-14)">
+</text><text class="terminal-3315436603-r4" x="0" y="386" textLength="732" clip-path="url(#terminal-3315436603-line-15)">https://apnews.com/article/c0d3e1769dfae22305d0418963ed6e1f?</text><text class="terminal-3315436603-r2" x="1342" y="386" textLength="12.2" clip-path="url(#terminal-3315436603-line-15)">
+</text><text class="terminal-3315436603-r3" x="0" y="410.4" textLength="12.2" clip-path="url(#terminal-3315436603-line-16)">8</text><text class="terminal-3315436603-r2" x="12.2" y="410.4" textLength="24.4" clip-path="url(#terminal-3315436603-line-16)">.&#160;</text><text class="terminal-3315436603-r2" x="36.6" y="410.4" textLength="780.8" clip-path="url(#terminal-3315436603-line-16)">Taylor&#160;Swift’s&#160;Longest&#160;Album&#160;Joins&#160;Her&#160;Longest-Charting&#160;Releases</text><text class="terminal-3315436603-r2" x="1342" y="410.4" textLength="12.2" clip-path="url(#terminal-3315436603-line-16)">
+</text><text class="terminal-3315436603-r4" x="0" y="434.8" textLength="732" clip-path="url(#terminal-3315436603-line-17)">https://www.forbes.com/sites/hughmcintyre/2026/04/27/taylor-</text><text class="terminal-3315436603-r2" x="1342" y="434.8" textLength="12.2" clip-path="url(#terminal-3315436603-line-17)">
+</text><text class="terminal-3315436603-r3" x="0" y="459.2" textLength="12.2" clip-path="url(#terminal-3315436603-line-18)">9</text><text class="terminal-3315436603-r2" x="12.2" y="459.2" textLength="24.4" clip-path="url(#terminal-3315436603-line-18)">.&#160;</text><text class="terminal-3315436603-r2" x="36.6" y="459.2" textLength="854" clip-path="url(#terminal-3315436603-line-18)">Taylor&#160;Swift&#160;Wants&#160;to&#160;Trademark&#160;Her&#160;Likeness.&#160;These&#160;TikTok&#160;Deepfake&#160;Ad</text><text class="terminal-3315436603-r2" x="1342" y="459.2" textLength="12.2" clip-path="url(#terminal-3315436603-line-18)">
+</text><text class="terminal-3315436603-r4" x="0" y="483.6" textLength="732" clip-path="url(#terminal-3315436603-line-19)">https://www.wired.com/story/taylor-swift-rihanna-tiktok-deep</text><text class="terminal-3315436603-r2" x="1342" y="483.6" textLength="12.2" clip-path="url(#terminal-3315436603-line-19)">
+</text><text class="terminal-3315436603-r3" x="0" y="508" textLength="24.4" clip-path="url(#terminal-3315436603-line-20)">10</text><text class="terminal-3315436603-r2" x="24.4" y="508" textLength="24.4" clip-path="url(#terminal-3315436603-line-20)">.&#160;</text><text class="terminal-3315436603-r2" x="48.8" y="508" textLength="854" clip-path="url(#terminal-3315436603-line-20)">Celebrities&#160;are&#160;filing&#160;trademarks&#160;to&#160;combat&#160;AI&#160;clones.&#160;Should&#160;you?&#160;-&#160;T</text><text class="terminal-3315436603-r2" x="1342" y="508" textLength="12.2" clip-path="url(#terminal-3315436603-line-20)">
+</text><text class="terminal-3315436603-r4" x="0" y="532.4" textLength="732" clip-path="url(#terminal-3315436603-line-21)">https://www.washingtonpost.com/entertainment/2026/05/08/tayl</text><text class="terminal-3315436603-r2" x="1342" y="532.4" textLength="12.2" clip-path="url(#terminal-3315436603-line-21)">
+</text><text class="terminal-3315436603-r3" x="0" y="556.8" textLength="24.4" clip-path="url(#terminal-3315436603-line-22)">11</text><text class="terminal-3315436603-r2" x="24.4" y="556.8" textLength="24.4" clip-path="url(#terminal-3315436603-line-22)">.&#160;</text><text class="terminal-3315436603-r2" x="48.8" y="556.8" textLength="854" clip-path="url(#terminal-3315436603-line-22)">New&#160;fake&#160;Taylor&#160;Swift&#160;TikTok&#160;scam&#160;reveals&#160;scary&#160;reality&#160;of&#160;AI&#160;deepfake</text><text class="terminal-3315436603-r2" x="1342" y="556.8" textLength="12.2" clip-path="url(#terminal-3315436603-line-22)">
+</text><text class="terminal-3315436603-r4" x="0" y="581.2" textLength="732" clip-path="url(#terminal-3315436603-line-23)">https://www.creativebloq.com/ai/new-fake-taylor-swift-tiktok</text><text class="terminal-3315436603-r2" x="1342" y="581.2" textLength="12.2" clip-path="url(#terminal-3315436603-line-23)">
+</text><text class="terminal-3315436603-r3" x="0" y="605.6" textLength="24.4" clip-path="url(#terminal-3315436603-line-24)">12</text><text class="terminal-3315436603-r2" x="24.4" y="605.6" textLength="24.4" clip-path="url(#terminal-3315436603-line-24)">.&#160;</text><text class="terminal-3315436603-r2" x="48.8" y="605.6" textLength="317.2" clip-path="url(#terminal-3315436603-line-24)">Taylor&#160;Swift&#160;Ranks&#160;Number&#160;</text><text class="terminal-3315436603-r3" x="366" y="605.6" textLength="12.2" clip-path="url(#terminal-3315436603-line-24)">1</text><text class="terminal-3315436603-r2" x="378.2" y="605.6" textLength="158.6" clip-path="url(#terminal-3315436603-line-24)">&#160;on&#160;McAfee&#x27;s&#160;</text><text class="terminal-3315436603-r3" x="536.8" y="605.6" textLength="48.8" clip-path="url(#terminal-3315436603-line-24)">2025</text><text class="terminal-3315436603-r2" x="585.6" y="605.6" textLength="317.2" clip-path="url(#terminal-3315436603-line-24)">&#160;Celebrity&#160;Deepfake&#160;Decept</text><text class="terminal-3315436603-r2" x="1342" y="605.6" textLength="12.2" clip-path="url(#terminal-3315436603-line-24)">
+</text><text class="terminal-3315436603-r4" x="0" y="630" textLength="732" clip-path="url(#terminal-3315436603-line-25)">https://www.mcafee.com/en-us/newsroom/press-releases/2025/ta</text><text class="terminal-3315436603-r2" x="1342" y="630" textLength="12.2" clip-path="url(#terminal-3315436603-line-25)">
+</text><text class="terminal-3315436603-r3" x="0" y="654.4" textLength="24.4" clip-path="url(#terminal-3315436603-line-26)">13</text><text class="terminal-3315436603-r2" x="24.4" y="654.4" textLength="24.4" clip-path="url(#terminal-3315436603-line-26)">.&#160;</text><text class="terminal-3315436603-r2" x="48.8" y="654.4" textLength="854" clip-path="url(#terminal-3315436603-line-26)">FTC&#160;Takes&#160;Action&#160;Against&#160;Ticket&#160;Resellers&#160;for&#160;Using&#160;Illegal&#160;Tactics&#160;to</text><text class="terminal-3315436603-r2" x="1342" y="654.4" textLength="12.2" clip-path="url(#terminal-3315436603-line-26)">
+</text><text class="terminal-3315436603-r4" x="0" y="678.8" textLength="732" clip-path="url(#terminal-3315436603-line-27)">https://www.ftc.gov/news-events/news/press-releases/2025/08/</text><text class="terminal-3315436603-r2" x="1342" y="678.8" textLength="12.2" clip-path="url(#terminal-3315436603-line-27)">
+</text><text class="terminal-3315436603-r3" x="0" y="703.2" textLength="24.4" clip-path="url(#terminal-3315436603-line-28)">14</text><text class="terminal-3315436603-r2" x="24.4" y="703.2" textLength="24.4" clip-path="url(#terminal-3315436603-line-28)">.&#160;</text><text class="terminal-3315436603-r2" x="48.8" y="703.2" textLength="597.8" clip-path="url(#terminal-3315436603-line-28)">Stolen&#160;Taylor&#160;Swift&#160;tickets&#160;allegedly&#160;resold&#160;in&#160;$</text><text class="terminal-3315436603-r3" x="646.6" y="703.2" textLength="36.6" clip-path="url(#terminal-3315436603-line-28)">635</text><text class="terminal-3315436603-r2" x="683.2" y="703.2" textLength="12.2" clip-path="url(#terminal-3315436603-line-28)">,</text><text class="terminal-3315436603-r3" x="695.4" y="703.2" textLength="36.6" clip-path="url(#terminal-3315436603-line-28)">000</text><text class="terminal-3315436603-r2" x="732" y="703.2" textLength="170.8" clip-path="url(#terminal-3315436603-line-28)">&#160;hacking&#160;schem</text><text class="terminal-3315436603-r2" x="1342" y="703.2" textLength="12.2" clip-path="url(#terminal-3315436603-line-28)">
+</text><text class="terminal-3315436603-r4" x="0" y="727.6" textLength="732" clip-path="url(#terminal-3315436603-line-29)">https://www.washingtonpost.com/style/2025/03/05/taylor-swift</text><text class="terminal-3315436603-r2" x="1342" y="727.6" textLength="12.2" clip-path="url(#terminal-3315436603-line-29)">
+</text><text class="terminal-3315436603-r3" x="0" y="752" textLength="24.4" clip-path="url(#terminal-3315436603-line-30)">15</text><text class="terminal-3315436603-r2" x="24.4" y="752" textLength="24.4" clip-path="url(#terminal-3315436603-line-30)">.&#160;</text><text class="terminal-3315436603-r2" x="48.8" y="752" textLength="854" clip-path="url(#terminal-3315436603-line-30)">Oasis&#160;and&#160;Taylor&#160;Swift&#160;fans&#160;lose&#160;out&#160;to&#160;scammers,&#160;TSB&#160;data&#160;reveals&#160;|&#160;T</text><text class="terminal-3315436603-r2" x="1342" y="752" textLength="12.2" clip-path="url(#terminal-3315436603-line-30)">
+</text><text class="terminal-3315436603-r4" x="0" y="776.4" textLength="732" clip-path="url(#terminal-3315436603-line-31)">https://www.tsb.co.uk/news-releases/Oasis-and-Taylor-Swift-f</text><text class="terminal-3315436603-r2" x="1342" y="776.4" textLength="12.2" clip-path="url(#terminal-3315436603-line-31)">
+</text><text class="terminal-3315436603-r3" x="0" y="800.8" textLength="24.4" clip-path="url(#terminal-3315436603-line-32)">16</text><text class="terminal-3315436603-r2" x="24.4" y="800.8" textLength="24.4" clip-path="url(#terminal-3315436603-line-32)">.&#160;</text><text class="terminal-3315436603-r2" x="48.8" y="800.8" textLength="854" clip-path="url(#terminal-3315436603-line-32)">Italy&#x27;s&#160;Meloni&#160;follows&#160;pop&#160;stars&#160;in&#160;seeking&#160;to&#160;trademark&#160;her&#160;voice&#160;to&#160;</text><text class="terminal-3315436603-r2" x="1342" y="800.8" textLength="12.2" clip-path="url(#terminal-3315436603-line-32)">
+</text><text class="terminal-3315436603-r4" x="0" y="825.2" textLength="732" clip-path="url(#terminal-3315436603-line-33)">https://apnews.com/article/a3e1e3de8c42f6b81ef9b7a4d9333a23?</text><text class="terminal-3315436603-r2" x="1342" y="825.2" textLength="12.2" clip-path="url(#terminal-3315436603-line-33)">
+</text><text class="terminal-3315436603-r3" x="0" y="849.6" textLength="24.4" clip-path="url(#terminal-3315436603-line-34)">17</text><text class="terminal-3315436603-r2" x="24.4" y="849.6" textLength="24.4" clip-path="url(#terminal-3315436603-line-34)">.&#160;</text><text class="terminal-3315436603-r2" x="48.8" y="849.6" textLength="854" clip-path="url(#terminal-3315436603-line-34)">FBI&#160;Nashville&#160;Warns&#160;Tennesseans&#160;about&#160;Criminal&#160;and&#160;Cybercriminal&#160;Activ</text><text class="terminal-3315436603-r2" x="1342" y="849.6" textLength="12.2" clip-path="url(#terminal-3315436603-line-34)">
+</text><text class="terminal-3315436603-r4" x="0" y="874" textLength="732" clip-path="url(#terminal-3315436603-line-35)">https://www.fbi.gov/contact-us/field-offices/nashville/news/</text><text class="terminal-3315436603-r2" x="1342" y="874" textLength="12.2" clip-path="url(#terminal-3315436603-line-35)">
+</text><text class="terminal-3315436603-r3" x="0" y="898.4" textLength="24.4" clip-path="url(#terminal-3315436603-line-36)">18</text><text class="terminal-3315436603-r2" x="24.4" y="898.4" textLength="24.4" clip-path="url(#terminal-3315436603-line-36)">.&#160;</text><text class="terminal-3315436603-r2" x="48.8" y="898.4" textLength="854" clip-path="url(#terminal-3315436603-line-36)">AI-generated&#160;ads&#160;using&#160;Taylor&#160;Swift&#x27;s&#160;likeness&#160;dupe&#160;fans&#160;with&#160;fake&#160;Le&#160;</text><text class="terminal-3315436603-r2" x="1342" y="898.4" textLength="12.2" clip-path="url(#terminal-3315436603-line-36)">
+</text><text class="terminal-3315436603-r4" x="0" y="922.8" textLength="732" clip-path="url(#terminal-3315436603-line-37)">https://www.cbsnews.com/news/taylor-swift-le-creuset-ai-gene</text><text class="terminal-3315436603-r2" x="1342" y="922.8" textLength="12.2" clip-path="url(#terminal-3315436603-line-37)">
+</text>
+    </g>
+    </g>
+</svg>
