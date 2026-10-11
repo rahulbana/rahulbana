@@ -50,6 +50,46 @@ deep_agent/
 └── utils/              # Logging + Tenacity retry policies
 ```
 
+## Screenshots
+
+Real run with OpenAI (`gpt-4o`) and Tavily on "Impact of GLP-1 drugs on healthcare costs" (`-n 1`). Each image is the actual terminal output.
+
+### Setup and configuration
+
+![deep-agent --help](screenshots/01_help.png)
+*deep-agent --help*
+
+![deep-agent research --help](screenshots/02_research_help.png)
+*deep-agent research --help*
+
+![deep-agent config: resolved configuration](screenshots/03_config.png)
+*deep-agent config: resolved configuration*
+
+![deep-agent doctor: preflight checks](screenshots/04_doctor.png)
+*deep-agent doctor: preflight checks*
+
+### Research run
+
+![Live progress: planning and parallel searches](screenshots/05_research_run_part1.png)
+*Live progress: planning and parallel searches*
+
+![Live progress: continued](screenshots/05_research_run_part2.png)
+*Live progress: continued*
+
+![Live progress: continued](screenshots/05_research_run_part3.png)
+*Live progress: continued*
+
+![Live progress: report written](screenshots/05_research_run_part4.png)
+*Live progress: report written*
+
+### Generated report
+
+![Report: executive summary and sections (part 1)](screenshots/06_report_part1.png)
+*Report: executive summary and sections (part 1)*
+
+![Report: remaining sections and sources (part 2)](screenshots/06_report_part2.png)
+*Report: remaining sections and sources (part 2)*
+
 ---
 
 ## Installation

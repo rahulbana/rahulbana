@@ -1,0 +1,211 @@
+<svg class="rich-terminal" viewBox="0 0 1385 928.4" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-747711380-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-747711380-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-747711380-r1 { fill: #98a84b;font-weight: bold }
+.terminal-747711380-r2 { fill: #c5c8c6 }
+.terminal-747711380-r3 { fill: #68a0b3 }
+.terminal-747711380-r4 { fill: #68a0b3;font-weight: bold }
+.terminal-747711380-r5 { fill: #4e707b }
+.terminal-747711380-r6 { fill: #608ab1 }
+.terminal-747711380-r7 { fill: #c5c8c6;font-weight: bold }
+.terminal-747711380-r8 { fill: #d0b344 }
+.terminal-747711380-r9 { fill: #98a84b }
+.terminal-747711380-r10 { fill: #98729f }
+.terminal-747711380-r11 { fill: #00823d;font-style: italic; }
+.terminal-747711380-r12 { fill: #d0b344;font-weight: bold }
+.terminal-747711380-r13 { fill: #1984e9;text-decoration: underline; }
+.terminal-747711380-r14 { fill: #d08442 }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-747711380-clip-terminal">
+      <rect x="0" y="0" width="1365.3999999999999" height="877.4" />
+    </clipPath>
+    <clipPath id="terminal-747711380-line-0">
+    <rect x="0" y="1.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-1">
+    <rect x="0" y="25.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-2">
+    <rect x="0" y="50.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-3">
+    <rect x="0" y="74.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-4">
+    <rect x="0" y="99.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-5">
+    <rect x="0" y="123.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-6">
+    <rect x="0" y="147.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-7">
+    <rect x="0" y="172.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-8">
+    <rect x="0" y="196.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-9">
+    <rect x="0" y="221.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-10">
+    <rect x="0" y="245.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-11">
+    <rect x="0" y="269.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-12">
+    <rect x="0" y="294.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-13">
+    <rect x="0" y="318.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-14">
+    <rect x="0" y="343.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-15">
+    <rect x="0" y="367.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-16">
+    <rect x="0" y="391.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-17">
+    <rect x="0" y="416.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-18">
+    <rect x="0" y="440.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-19">
+    <rect x="0" y="465.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-20">
+    <rect x="0" y="489.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-21">
+    <rect x="0" y="513.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-22">
+    <rect x="0" y="538.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-23">
+    <rect x="0" y="562.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-24">
+    <rect x="0" y="587.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-25">
+    <rect x="0" y="611.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-26">
+    <rect x="0" y="635.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-27">
+    <rect x="0" y="660.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-28">
+    <rect x="0" y="684.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-29">
+    <rect x="0" y="709.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-30">
+    <rect x="0" y="733.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-31">
+    <rect x="0" y="757.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-32">
+    <rect x="0" y="782.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-33">
+    <rect x="0" y="806.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-747711380-line-34">
+    <rect x="0" y="831.1" width="1366.4" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1383" height="926.4" rx="8"/><text class="terminal-747711380-title" fill="#c5c8c6" text-anchor="middle" x="691" y="27">deep-agent&#160;·&#160;research&#160;(live&#160;progress)</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-747711380-clip-terminal)">
+    
+    <g class="terminal-747711380-matrix">
+    <text class="terminal-747711380-r1" x="0" y="20" textLength="854" clip-path="url(#terminal-747711380-line-0)">$&#160;deep-agent&#160;research&#160;&quot;Impact&#160;of&#160;GLP-1&#160;drugs&#160;on&#160;healthcare&#160;costs&quot;&#160;-n&#160;1</text><text class="terminal-747711380-r2" x="1366.4" y="20" textLength="12.2" clip-path="url(#terminal-747711380-line-0)">
+</text><text class="terminal-747711380-r2" x="1366.4" y="44.4" textLength="12.2" clip-path="url(#terminal-747711380-line-1)">
+</text><text class="terminal-747711380-r3" x="0" y="68.8" textLength="732" clip-path="url(#terminal-747711380-line-2)">╭──────────────────────────────────────────────────────────╮</text><text class="terminal-747711380-r2" x="1366.4" y="68.8" textLength="12.2" clip-path="url(#terminal-747711380-line-2)">
+</text><text class="terminal-747711380-r3" x="0" y="93.2" textLength="12.2" clip-path="url(#terminal-747711380-line-3)">│</text><text class="terminal-747711380-r4" x="24.4" y="93.2" textLength="158.6" clip-path="url(#terminal-747711380-line-3)">Deep&#160;research</text><text class="terminal-747711380-r2" x="183" y="93.2" textLength="536.8" clip-path="url(#terminal-747711380-line-3)">:&#160;Impact&#160;of&#160;GLP-1&#160;drugs&#160;on&#160;healthcare&#160;costs&#160;</text><text class="terminal-747711380-r3" x="719.8" y="93.2" textLength="12.2" clip-path="url(#terminal-747711380-line-3)">│</text><text class="terminal-747711380-r2" x="1366.4" y="93.2" textLength="12.2" clip-path="url(#terminal-747711380-line-3)">
+</text><text class="terminal-747711380-r3" x="0" y="117.6" textLength="732" clip-path="url(#terminal-747711380-line-4)">╰──────────────────────────────────────────────────────────╯</text><text class="terminal-747711380-r2" x="1366.4" y="117.6" textLength="12.2" clip-path="url(#terminal-747711380-line-4)">
+</text><text class="terminal-747711380-r5" x="0" y="142" textLength="97.6" clip-path="url(#terminal-747711380-line-5)">21:57:21</text><text class="terminal-747711380-r6" x="109.8" y="142" textLength="97.6" clip-path="url(#terminal-747711380-line-5)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="142" textLength="463.6" clip-path="url(#terminal-747711380-line-5)">&#160;deep_agent.preflight&#160;|&#160;preflight&#160;LLM&#160;</text><text class="terminal-747711380-r7" x="671" y="142" textLength="12.2" clip-path="url(#terminal-747711380-line-5)">(</text><text class="terminal-747711380-r2" x="683.2" y="142" textLength="73.2" clip-path="url(#terminal-747711380-line-5)">openai</text><text class="terminal-747711380-r7" x="756.4" y="142" textLength="12.2" clip-path="url(#terminal-747711380-line-5)">)</text><text class="terminal-747711380-r2" x="768.6" y="142" textLength="573.4" clip-path="url(#terminal-747711380-line-5)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;OK&#160;—&#160;OPENAI_API_KEY&#160;is&#160;set&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="142" textLength="12.2" clip-path="url(#terminal-747711380-line-5)">
+</text><text class="terminal-747711380-r6" x="109.8" y="166.4" textLength="97.6" clip-path="url(#terminal-747711380-line-6)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="166.4" textLength="500.2" clip-path="url(#terminal-747711380-line-6)">&#160;deep_agent.preflight&#160;|&#160;preflight&#160;Search&#160;</text><text class="terminal-747711380-r7" x="707.6" y="166.4" textLength="12.2" clip-path="url(#terminal-747711380-line-6)">(</text><text class="terminal-747711380-r2" x="719.8" y="166.4" textLength="73.2" clip-path="url(#terminal-747711380-line-6)">tavily</text><text class="terminal-747711380-r7" x="793" y="166.4" textLength="12.2" clip-path="url(#terminal-747711380-line-6)">)</text><text class="terminal-747711380-r2" x="805.2" y="166.4" textLength="536.8" clip-path="url(#terminal-747711380-line-6)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;OK&#160;—&#160;TAVILY_API_KEY&#160;is&#160;set&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="166.4" textLength="12.2" clip-path="url(#terminal-747711380-line-6)">
+</text><text class="terminal-747711380-r6" x="109.8" y="190.8" textLength="97.6" clip-path="url(#terminal-747711380-line-7)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="190.8" textLength="1134.6" clip-path="url(#terminal-747711380-line-7)">&#160;deep_agent.preflight&#160;|&#160;preflight&#160;Celery&#160;broker&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;OK&#160;—&#160;eager&#160;mode&#160;—&#160;scraping/search&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="190.8" textLength="12.2" clip-path="url(#terminal-747711380-line-7)">
+</text><text class="terminal-747711380-r2" x="109.8" y="215.2" textLength="244" clip-path="url(#terminal-747711380-line-8)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;run&#160;inline&#160;</text><text class="terminal-747711380-r7" x="353.8" y="215.2" textLength="12.2" clip-path="url(#terminal-747711380-line-8)">(</text><text class="terminal-747711380-r2" x="366" y="215.2" textLength="207.4" clip-path="url(#terminal-747711380-line-8)">broker&#160;not&#160;needed</text><text class="terminal-747711380-r7" x="573.4" y="215.2" textLength="12.2" clip-path="url(#terminal-747711380-line-8)">)</text><text class="terminal-747711380-r2" x="1366.4" y="215.2" textLength="12.2" clip-path="url(#terminal-747711380-line-8)">
+</text><text class="terminal-747711380-r6" x="109.8" y="239.6" textLength="97.6" clip-path="url(#terminal-747711380-line-9)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="239.6" textLength="1134.6" clip-path="url(#terminal-747711380-line-9)">&#160;deep_agent.preflight&#160;|&#160;preflight&#160;Checkpointer&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;OK&#160;—&#160;memory&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="239.6" textLength="12.2" clip-path="url(#terminal-747711380-line-9)">
+</text><text class="terminal-747711380-r6" x="109.8" y="264" textLength="97.6" clip-path="url(#terminal-747711380-line-10)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="264" textLength="1134.6" clip-path="url(#terminal-747711380-line-10)">&#160;deep_agent.preflight&#160;|&#160;preflight&#160;Langfuse&#160;tracing&#160;&#160;&#160;&#160;&#160;&#160;&#160;OK&#160;—&#160;disabled&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="264" textLength="12.2" clip-path="url(#terminal-747711380-line-10)">
+</text><text class="terminal-747711380-r6" x="109.8" y="288.4" textLength="97.6" clip-path="url(#terminal-747711380-line-11)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="288.4" textLength="475.8" clip-path="url(#terminal-747711380-line-11)">&#160;deep_agent.graph&#160;|&#160;Starting&#160;research:&#160;</text><text class="terminal-747711380-r8" x="683.2" y="288.4" textLength="61" clip-path="url(#terminal-747711380-line-11)">topic</text><text class="terminal-747711380-r2" x="744.2" y="288.4" textLength="12.2" clip-path="url(#terminal-747711380-line-11)">=</text><text class="terminal-747711380-r9" x="756.4" y="288.4" textLength="524.6" clip-path="url(#terminal-747711380-line-11)">&#x27;Impact&#160;of&#160;GLP-1&#160;drugs&#160;on&#160;healthcare&#160;costs&#x27;</text><text class="terminal-747711380-r2" x="1366.4" y="288.4" textLength="12.2" clip-path="url(#terminal-747711380-line-11)">
+</text><text class="terminal-747711380-r8" x="219.6" y="312.8" textLength="170.8" clip-path="url(#terminal-747711380-line-12)">max_iterations</text><text class="terminal-747711380-r2" x="390.4" y="312.8" textLength="12.2" clip-path="url(#terminal-747711380-line-12)">=</text><text class="terminal-747711380-r4" x="402.6" y="312.8" textLength="12.2" clip-path="url(#terminal-747711380-line-12)">1</text><text class="terminal-747711380-r8" x="427" y="312.8" textLength="73.2" clip-path="url(#terminal-747711380-line-12)">thread</text><text class="terminal-747711380-r2" x="500.2" y="312.8" textLength="12.2" clip-path="url(#terminal-747711380-line-12)">=</text><text class="terminal-747711380-r10" x="512.4" y="312.8" textLength="73.2" clip-path="url(#terminal-747711380-line-12)">impact</text><text class="terminal-747711380-r2" x="585.6" y="312.8" textLength="97.6" clip-path="url(#terminal-747711380-line-12)">-of-glp-</text><text class="terminal-747711380-r4" x="683.2" y="312.8" textLength="12.2" clip-path="url(#terminal-747711380-line-12)">1</text><text class="terminal-747711380-r2" x="695.4" y="312.8" textLength="329.4" clip-path="url(#terminal-747711380-line-12)">-drugs-on-healthcare-costs&#160;</text><text class="terminal-747711380-r8" x="1024.8" y="312.8" textLength="73.2" clip-path="url(#terminal-747711380-line-12)">stream</text><text class="terminal-747711380-r2" x="1098" y="312.8" textLength="12.2" clip-path="url(#terminal-747711380-line-12)">=</text><text class="terminal-747711380-r11" x="1110.2" y="312.8" textLength="48.8" clip-path="url(#terminal-747711380-line-12)">True</text><text class="terminal-747711380-r2" x="1366.4" y="312.8" textLength="12.2" clip-path="url(#terminal-747711380-line-12)">
+</text><text class="terminal-747711380-r6" x="109.8" y="337.2" textLength="97.6" clip-path="url(#terminal-747711380-line-13)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="337.2" textLength="1134.6" clip-path="url(#terminal-747711380-line-13)">&#160;deep_agent.checkpoint&#160;|&#160;Using&#160;in-memory&#160;checkpointer.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="337.2" textLength="12.2" clip-path="url(#terminal-747711380-line-13)">
+</text><text class="terminal-747711380-r6" x="109.8" y="361.6" textLength="97.6" clip-path="url(#terminal-747711380-line-14)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="361.6" textLength="536.8" clip-path="url(#terminal-747711380-line-14)">&#160;deep_agent.graph&#160;|&#160;Research&#160;graph&#160;compiled&#160;</text><text class="terminal-747711380-r7" x="744.2" y="361.6" textLength="12.2" clip-path="url(#terminal-747711380-line-14)">(</text><text class="terminal-747711380-r8" x="756.4" y="361.6" textLength="146.4" clip-path="url(#terminal-747711380-line-14)">checkpointer</text><text class="terminal-747711380-r2" x="902.8" y="361.6" textLength="12.2" clip-path="url(#terminal-747711380-line-14)">=</text><text class="terminal-747711380-r10" x="915" y="361.6" textLength="158.6" clip-path="url(#terminal-747711380-line-14)">InMemorySaver</text><text class="terminal-747711380-r7" x="1073.6" y="361.6" textLength="12.2" clip-path="url(#terminal-747711380-line-14)">)</text><text class="terminal-747711380-r2" x="1085.8" y="361.6" textLength="256.2" clip-path="url(#terminal-747711380-line-14)">.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="361.6" textLength="12.2" clip-path="url(#terminal-747711380-line-14)">
+</text><text class="terminal-747711380-r6" x="109.8" y="386" textLength="97.6" clip-path="url(#terminal-747711380-line-15)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="386" textLength="878.4" clip-path="url(#terminal-747711380-line-15)">&#160;deep_agent.agents.planner&#160;|&#160;Planning&#160;research&#160;for&#160;topic:&#160;Impact&#160;of&#160;GLP-</text><text class="terminal-747711380-r4" x="1085.8" y="386" textLength="12.2" clip-path="url(#terminal-747711380-line-15)">1</text><text class="terminal-747711380-r2" x="1098" y="386" textLength="244" clip-path="url(#terminal-747711380-line-15)">&#160;drugs&#160;on&#160;healthcare</text><text class="terminal-747711380-r2" x="1366.4" y="386" textLength="12.2" clip-path="url(#terminal-747711380-line-15)">
+</text><text class="terminal-747711380-r2" x="109.8" y="410.4" textLength="1232.2" clip-path="url(#terminal-747711380-line-16)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;costs&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="410.4" textLength="12.2" clip-path="url(#terminal-747711380-line-16)">
+</text><text class="terminal-747711380-r5" x="0" y="434.8" textLength="97.6" clip-path="url(#terminal-747711380-line-17)">21:57:23</text><text class="terminal-747711380-r6" x="109.8" y="434.8" textLength="97.6" clip-path="url(#terminal-747711380-line-17)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="434.8" textLength="1134.6" clip-path="url(#terminal-747711380-line-17)">&#160;deep_agent.llm.factory&#160;|&#160;LLM&#160;cache:&#160;sqlite&#160;→&#160;deep_agent_llm_cache.sqlite&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="434.8" textLength="12.2" clip-path="url(#terminal-747711380-line-17)">
+</text><text class="terminal-747711380-r6" x="109.8" y="459.2" textLength="97.6" clip-path="url(#terminal-747711380-line-18)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="459.2" textLength="524.6" clip-path="url(#terminal-747711380-line-18)">&#160;deep_agent.llm.factory&#160;|&#160;Initialising&#160;LLM&#160;</text><text class="terminal-747711380-r8" x="732" y="459.2" textLength="97.6" clip-path="url(#terminal-747711380-line-18)">provider</text><text class="terminal-747711380-r2" x="829.6" y="459.2" textLength="12.2" clip-path="url(#terminal-747711380-line-18)">=</text><text class="terminal-747711380-r10" x="841.8" y="459.2" textLength="73.2" clip-path="url(#terminal-747711380-line-18)">openai</text><text class="terminal-747711380-r8" x="927.2" y="459.2" textLength="61" clip-path="url(#terminal-747711380-line-18)">model</text><text class="terminal-747711380-r2" x="988.2" y="459.2" textLength="12.2" clip-path="url(#terminal-747711380-line-18)">=</text><text class="terminal-747711380-r10" x="1000.4" y="459.2" textLength="36.6" clip-path="url(#terminal-747711380-line-18)">gpt</text><text class="terminal-747711380-r2" x="1037" y="459.2" textLength="305" clip-path="url(#terminal-747711380-line-18)">-4o&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="459.2" textLength="12.2" clip-path="url(#terminal-747711380-line-18)">
+</text><text class="terminal-747711380-r5" x="0" y="483.6" textLength="97.6" clip-path="url(#terminal-747711380-line-19)">21:57:36</text><text class="terminal-747711380-r6" x="109.8" y="483.6" textLength="97.6" clip-path="url(#terminal-747711380-line-19)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="483.6" textLength="292.8" clip-path="url(#terminal-747711380-line-19)">&#160;httpx2&#160;|&#160;HTTP&#160;Request:&#160;</text><text class="terminal-747711380-r12" x="500.2" y="483.6" textLength="48.8" clip-path="url(#terminal-747711380-line-19)">POST</text><text class="terminal-747711380-r13" x="561.2" y="483.6" textLength="512.4" clip-path="url(#terminal-747711380-line-19)">https://api.openai.com/v1/chat/completions</text><text class="terminal-747711380-r9" x="1085.8" y="483.6" textLength="207.4" clip-path="url(#terminal-747711380-line-19)">&quot;HTTP/1.1&#160;200&#160;OK&quot;</text><text class="terminal-747711380-r2" x="1366.4" y="483.6" textLength="12.2" clip-path="url(#terminal-747711380-line-19)">
+</text><text class="terminal-747711380-r6" x="109.8" y="508" textLength="97.6" clip-path="url(#terminal-747711380-line-20)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="508" textLength="512.4" clip-path="url(#terminal-747711380-line-20)">&#160;deep_agent.agents.planner&#160;|&#160;LLM&#160;tokens&#160;—&#160;</text><text class="terminal-747711380-r8" x="719.8" y="508" textLength="61" clip-path="url(#terminal-747711380-line-20)">input</text><text class="terminal-747711380-r2" x="780.8" y="508" textLength="12.2" clip-path="url(#terminal-747711380-line-20)">=</text><text class="terminal-747711380-r4" x="793" y="508" textLength="36.6" clip-path="url(#terminal-747711380-line-20)">307</text><text class="terminal-747711380-r8" x="841.8" y="508" textLength="73.2" clip-path="url(#terminal-747711380-line-20)">output</text><text class="terminal-747711380-r2" x="915" y="508" textLength="12.2" clip-path="url(#terminal-747711380-line-20)">=</text><text class="terminal-747711380-r4" x="927.2" y="508" textLength="36.6" clip-path="url(#terminal-747711380-line-20)">524</text><text class="terminal-747711380-r8" x="976" y="508" textLength="61" clip-path="url(#terminal-747711380-line-20)">total</text><text class="terminal-747711380-r2" x="1037" y="508" textLength="12.2" clip-path="url(#terminal-747711380-line-20)">=</text><text class="terminal-747711380-r4" x="1049.2" y="508" textLength="36.6" clip-path="url(#terminal-747711380-line-20)">831</text><text class="terminal-747711380-r2" x="1366.4" y="508" textLength="12.2" clip-path="url(#terminal-747711380-line-20)">
+</text><text class="terminal-747711380-r6" x="109.8" y="532.4" textLength="97.6" clip-path="url(#terminal-747711380-line-21)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="532.4" textLength="500.2" clip-path="url(#terminal-747711380-line-21)">&#160;deep_agent.agents.planner&#160;|&#160;Plan&#160;ready:&#160;</text><text class="terminal-747711380-r4" x="707.6" y="532.4" textLength="12.2" clip-path="url(#terminal-747711380-line-21)">5</text><text class="terminal-747711380-r2" x="719.8" y="532.4" textLength="158.6" clip-path="url(#terminal-747711380-line-21)">&#160;sub-topics,&#160;</text><text class="terminal-747711380-r4" x="878.4" y="532.4" textLength="24.4" clip-path="url(#terminal-747711380-line-21)">15</text><text class="terminal-747711380-r2" x="902.8" y="532.4" textLength="439.2" clip-path="url(#terminal-747711380-line-21)">&#160;initial&#160;queries&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="532.4" textLength="12.2" clip-path="url(#terminal-747711380-line-21)">
+</text><text class="terminal-747711380-r9" x="24.4" y="556.8" textLength="12.2" clip-path="url(#terminal-747711380-line-22)">✓</text><text class="terminal-747711380-r2" x="36.6" y="556.8" textLength="219.6" clip-path="url(#terminal-747711380-line-22)">&#160;Planning&#160;research</text><text class="terminal-747711380-r2" x="1366.4" y="556.8" textLength="12.2" clip-path="url(#terminal-747711380-line-22)">
+</text><text class="terminal-747711380-r6" x="109.8" y="581.2" textLength="97.6" clip-path="url(#terminal-747711380-line-23)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="581.2" textLength="488" clip-path="url(#terminal-747711380-line-23)">&#160;deep_agent.agents.search&#160;|&#160;Dispatching&#160;</text><text class="terminal-747711380-r4" x="695.4" y="581.2" textLength="24.4" clip-path="url(#terminal-747711380-line-23)">15</text><text class="terminal-747711380-r2" x="719.8" y="581.2" textLength="622.2" clip-path="url(#terminal-747711380-line-23)">&#160;parallel&#160;searches&#160;via&#160;tavily&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="581.2" textLength="12.2" clip-path="url(#terminal-747711380-line-23)">
+</text><text class="terminal-747711380-r6" x="109.8" y="605.6" textLength="97.6" clip-path="url(#terminal-747711380-line-24)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="605.6" textLength="597.8" clip-path="url(#terminal-747711380-line-24)">&#160;deep_agent.search.factory&#160;|&#160;Initialising&#160;search&#160;</text><text class="terminal-747711380-r8" x="805.2" y="605.6" textLength="97.6" clip-path="url(#terminal-747711380-line-24)">provider</text><text class="terminal-747711380-r2" x="902.8" y="605.6" textLength="12.2" clip-path="url(#terminal-747711380-line-24)">=</text><text class="terminal-747711380-r10" x="915" y="605.6" textLength="73.2" clip-path="url(#terminal-747711380-line-24)">tavily</text><text class="terminal-747711380-r2" x="1366.4" y="605.6" textLength="12.2" clip-path="url(#terminal-747711380-line-24)">
+</text><text class="terminal-747711380-r6" x="109.8" y="630" textLength="97.6" clip-path="url(#terminal-747711380-line-25)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="630" textLength="524.6" clip-path="url(#terminal-747711380-line-25)">&#160;deep_agent.search.tavily&#160;|&#160;Tavily&#160;search:&#160;</text><text class="terminal-747711380-r9" x="732" y="630" textLength="561.2" clip-path="url(#terminal-747711380-line-25)">&#x27;GLP-1&#160;drugs&#160;cost-effectiveness&#160;analysis&#160;2023&#x27;</text><text class="terminal-747711380-r2" x="1366.4" y="630" textLength="12.2" clip-path="url(#terminal-747711380-line-25)">
+</text><text class="terminal-747711380-r7" x="219.6" y="654.4" textLength="12.2" clip-path="url(#terminal-747711380-line-26)">(</text><text class="terminal-747711380-r8" x="231.8" y="654.4" textLength="36.6" clip-path="url(#terminal-747711380-line-26)">max</text><text class="terminal-747711380-r2" x="268.4" y="654.4" textLength="12.2" clip-path="url(#terminal-747711380-line-26)">=</text><text class="terminal-747711380-r4" x="280.6" y="654.4" textLength="12.2" clip-path="url(#terminal-747711380-line-26)">6</text><text class="terminal-747711380-r7" x="292.8" y="654.4" textLength="12.2" clip-path="url(#terminal-747711380-line-26)">)</text><text class="terminal-747711380-r2" x="1366.4" y="654.4" textLength="12.2" clip-path="url(#terminal-747711380-line-26)">
+</text><text class="terminal-747711380-r5" x="0" y="678.8" textLength="97.6" clip-path="url(#terminal-747711380-line-27)">21:57:40</text><text class="terminal-747711380-r6" x="109.8" y="678.8" textLength="97.6" clip-path="url(#terminal-747711380-line-27)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="678.8" textLength="536.8" clip-path="url(#terminal-747711380-line-27)">&#160;deep_agent.search.tavily&#160;|&#160;Tavily&#160;returned&#160;</text><text class="terminal-747711380-r4" x="744.2" y="678.8" textLength="12.2" clip-path="url(#terminal-747711380-line-27)">6</text><text class="terminal-747711380-r2" x="756.4" y="678.8" textLength="158.6" clip-path="url(#terminal-747711380-line-27)">&#160;results&#160;for&#160;</text><text class="terminal-747711380-r9" x="915" y="678.8" textLength="390.4" clip-path="url(#terminal-747711380-line-27)">&#x27;GLP-1&#160;drugs&#160;cost-effectiveness&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="678.8" textLength="12.2" clip-path="url(#terminal-747711380-line-27)">
+</text><text class="terminal-747711380-r9" x="219.6" y="703.2" textLength="170.8" clip-path="url(#terminal-747711380-line-28)">analysis&#160;2023&#x27;</text><text class="terminal-747711380-r2" x="1366.4" y="703.2" textLength="12.2" clip-path="url(#terminal-747711380-line-28)">
+</text><text class="terminal-747711380-r6" x="109.8" y="727.6" textLength="97.6" clip-path="url(#terminal-747711380-line-29)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="207.4" y="727.6" textLength="585.6" clip-path="url(#terminal-747711380-line-29)">&#160;celery.app.trace&#160;|&#160;Task&#160;deep_agent.search_query</text><text class="terminal-747711380-r7" x="793" y="727.6" textLength="12.2" clip-path="url(#terminal-747711380-line-29)">[</text><text class="terminal-747711380-r14" x="805.2" y="727.6" textLength="439.2" clip-path="url(#terminal-747711380-line-29)">6f72f0b4-7b05-49ca-b4ab-c5d5dc0f147a</text><text class="terminal-747711380-r7" x="1244.4" y="727.6" textLength="12.2" clip-path="url(#terminal-747711380-line-29)">]</text><text class="terminal-747711380-r2" x="1366.4" y="727.6" textLength="12.2" clip-path="url(#terminal-747711380-line-29)">
+</text><text class="terminal-747711380-r2" x="109.8" y="752" textLength="268.4" clip-path="url(#terminal-747711380-line-30)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;succeeded&#160;in&#160;</text><text class="terminal-747711380-r4" x="378.2" y="752" textLength="24.4" clip-path="url(#terminal-747711380-line-30)">4.</text><text class="terminal-747711380-r2" x="402.6" y="752" textLength="207.4" clip-path="url(#terminal-747711380-line-30)">44510237799841s:&#160;</text><text class="terminal-747711380-r7" x="610" y="752" textLength="12.2" clip-path="url(#terminal-747711380-line-30)">[</text><text class="terminal-747711380-r7" x="622.2" y="752" textLength="12.2" clip-path="url(#terminal-747711380-line-30)">{</text><text class="terminal-747711380-r9" x="634.4" y="752" textLength="85.4" clip-path="url(#terminal-747711380-line-30)">&#x27;title&#x27;</text><text class="terminal-747711380-r2" x="719.8" y="752" textLength="24.4" clip-path="url(#terminal-747711380-line-30)">:&#160;</text><text class="terminal-747711380-r9" x="744.2" y="752" textLength="597.8" clip-path="url(#terminal-747711380-line-30)">&#x27;Assessing&#160;cost-effectiveness&#160;of&#160;GLP-1&#160;drugs&#160;in&#160;a</text><text class="terminal-747711380-r2" x="1366.4" y="752" textLength="12.2" clip-path="url(#terminal-747711380-line-30)">
+</text><text class="terminal-747711380-r9" x="219.6" y="776.4" textLength="573.4" clip-path="url(#terminal-747711380-line-31)">changing&#160;market&#160;|&#160;Managed&#160;Healthcare&#160;Executive&#x27;</text><text class="terminal-747711380-r2" x="793" y="776.4" textLength="24.4" clip-path="url(#terminal-747711380-line-31)">,&#160;</text><text class="terminal-747711380-r9" x="817.4" y="776.4" textLength="61" clip-path="url(#terminal-747711380-line-31)">&#x27;url&#x27;</text><text class="terminal-747711380-r2" x="878.4" y="776.4" textLength="463.6" clip-path="url(#terminal-747711380-line-31)">:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="776.4" textLength="12.2" clip-path="url(#terminal-747711380-line-31)">
+</text><text class="terminal-747711380-r9" x="219.6" y="800.8" textLength="1122.4" clip-path="url(#terminal-747711380-line-32)">&#x27;https://www.managedhealthcareexecutive.com/view/assessing-cost-effectiveness-of-glp-1-drugs</text><text class="terminal-747711380-r2" x="1366.4" y="800.8" textLength="12.2" clip-path="url(#terminal-747711380-line-32)">
+</text><text class="terminal-747711380-r9" x="219.6" y="825.2" textLength="268.4" clip-path="url(#terminal-747711380-line-33)">-in-a-changing-market&#x27;</text><text class="terminal-747711380-r2" x="488" y="825.2" textLength="24.4" clip-path="url(#terminal-747711380-line-33)">,&#160;</text><text class="terminal-747711380-r9" x="512.4" y="825.2" textLength="109.8" clip-path="url(#terminal-747711380-line-33)">&#x27;snippet&#x27;</text><text class="terminal-747711380-r2" x="622.2" y="825.2" textLength="183" clip-path="url(#terminal-747711380-line-33)">:&#160;&#x27;Modeling&#160;at&#160;</text><text class="terminal-747711380-r4" x="805.2" y="825.2" textLength="48.8" clip-path="url(#terminal-747711380-line-33)">2023</text><text class="terminal-747711380-r2" x="854" y="825.2" textLength="488" clip-path="url(#terminal-747711380-line-33)">&#160;net&#160;pricing&#160;estimated&#160;semaglutide&#160;would</text><text class="terminal-747711380-r2" x="1366.4" y="825.2" textLength="12.2" clip-path="url(#terminal-747711380-line-33)">
+</text><text class="terminal-747711380-r2" x="109.8" y="849.6" textLength="195.2" clip-path="url(#terminal-747711380-line-34)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;avert&#160;&gt;</text><text class="terminal-747711380-r4" x="305" y="849.6" textLength="36.6" clip-path="url(#terminal-747711380-line-34)">358</text><text class="terminal-747711380-r2" x="341.6" y="849.6" textLength="12.2" clip-path="url(#terminal-747711380-line-34)">,</text><text class="terminal-747711380-r4" x="353.8" y="849.6" textLength="36.6" clip-path="url(#terminal-747711380-line-34)">000</text><text class="terminal-747711380-r2" x="390.4" y="849.6" textLength="951.6" clip-path="url(#terminal-747711380-line-34)">&#160;cardiovascular&#160;events/deaths,&#160;saving&#160;~$15B&#160;in&#160;cardiovascular&#160;care&#160;plus&#160;~$8B&#160;&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="849.6" textLength="12.2" clip-path="url(#terminal-747711380-line-34)">
+</text><text class="terminal-747711380-r2" x="109.8" y="874" textLength="1232.2" clip-path="url(#terminal-747711380-line-35)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;in&#160;other&#160;care,&#160;but&#160;adding&#160;~$344B&#160;lifetime&#160;drug&#160;spend.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-747711380-r2" x="1366.4" y="874" textLength="12.2" clip-path="url(#terminal-747711380-line-35)">
+</text>
+    </g>
+    </g>
+</svg>

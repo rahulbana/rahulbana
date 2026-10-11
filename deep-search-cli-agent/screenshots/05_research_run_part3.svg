@@ -1,0 +1,206 @@
+<svg class="rich-terminal" viewBox="0 0 1385 928.4" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-2374931218-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-2374931218-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-2374931218-r1 { fill: #98a84b;font-weight: bold }
+.terminal-2374931218-r2 { fill: #c5c8c6 }
+.terminal-2374931218-r3 { fill: #4e707b }
+.terminal-2374931218-r4 { fill: #98a84b }
+.terminal-2374931218-r5 { fill: #d0b344 }
+.terminal-2374931218-r6 { fill: #c5c8c6;font-weight: bold }
+.terminal-2374931218-r7 { fill: #608ab1 }
+.terminal-2374931218-r8 { fill: #68a0b3;font-weight: bold }
+.terminal-2374931218-r9 { fill: #d08442 }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-2374931218-clip-terminal">
+      <rect x="0" y="0" width="1365.3999999999999" height="877.4" />
+    </clipPath>
+    <clipPath id="terminal-2374931218-line-0">
+    <rect x="0" y="1.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-1">
+    <rect x="0" y="25.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-2">
+    <rect x="0" y="50.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-3">
+    <rect x="0" y="74.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-4">
+    <rect x="0" y="99.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-5">
+    <rect x="0" y="123.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-6">
+    <rect x="0" y="147.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-7">
+    <rect x="0" y="172.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-8">
+    <rect x="0" y="196.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-9">
+    <rect x="0" y="221.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-10">
+    <rect x="0" y="245.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-11">
+    <rect x="0" y="269.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-12">
+    <rect x="0" y="294.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-13">
+    <rect x="0" y="318.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-14">
+    <rect x="0" y="343.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-15">
+    <rect x="0" y="367.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-16">
+    <rect x="0" y="391.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-17">
+    <rect x="0" y="416.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-18">
+    <rect x="0" y="440.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-19">
+    <rect x="0" y="465.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-20">
+    <rect x="0" y="489.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-21">
+    <rect x="0" y="513.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-22">
+    <rect x="0" y="538.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-23">
+    <rect x="0" y="562.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-24">
+    <rect x="0" y="587.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-25">
+    <rect x="0" y="611.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-26">
+    <rect x="0" y="635.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-27">
+    <rect x="0" y="660.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-28">
+    <rect x="0" y="684.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-29">
+    <rect x="0" y="709.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-30">
+    <rect x="0" y="733.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-31">
+    <rect x="0" y="757.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-32">
+    <rect x="0" y="782.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-33">
+    <rect x="0" y="806.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-2374931218-line-34">
+    <rect x="0" y="831.1" width="1366.4" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1383" height="926.4" rx="8"/><text class="terminal-2374931218-title" fill="#c5c8c6" text-anchor="middle" x="691" y="27">deep-agent&#160;·&#160;research&#160;(live&#160;progress)</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-2374931218-clip-terminal)">
+    
+    <g class="terminal-2374931218-matrix">
+    <text class="terminal-2374931218-r1" x="0" y="20" textLength="341.6" clip-path="url(#terminal-2374931218-line-0)">#&#160;...&#160;research&#160;run&#160;continued</text><text class="terminal-2374931218-r2" x="1366.4" y="20" textLength="12.2" clip-path="url(#terminal-2374931218-line-0)">
+</text><text class="terminal-2374931218-r2" x="1366.4" y="44.4" textLength="12.2" clip-path="url(#terminal-2374931218-line-1)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="68.8" textLength="61" clip-path="url(#terminal-2374931218-line-2)">&#x27;url&#x27;</text><text class="terminal-2374931218-r2" x="280.6" y="68.8" textLength="1061.4" clip-path="url(#terminal-2374931218-line-2)">:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="68.8" textLength="12.2" clip-path="url(#terminal-2374931218-line-2)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="93.2" textLength="1122.4" clip-path="url(#terminal-2374931218-line-3)">&#x27;https://blog.nisbenefits.com/hubfs/blog-supporting-docs/bulletin-glp-1-coverage-cost-analys</text><text class="terminal-2374931218-r2" x="1366.4" y="93.2" textLength="12.2" clip-path="url(#terminal-2374931218-line-3)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="117.6" textLength="85.4" clip-path="url(#terminal-2374931218-line-4)">is.pdf&#x27;</text><text class="terminal-2374931218-r2" x="305" y="117.6" textLength="24.4" clip-path="url(#terminal-2374931218-line-4)">,&#160;</text><text class="terminal-2374931218-r4" x="329.4" y="117.6" textLength="109.8" clip-path="url(#terminal-2374931218-line-4)">&#x27;snippet&#x27;</text><text class="terminal-2374931218-r2" x="439.2" y="117.6" textLength="24.4" clip-path="url(#terminal-2374931218-line-4)">:&#160;</text><text class="terminal-2374931218-r4" x="463.6" y="117.6" textLength="805.2" clip-path="url(#terminal-2374931218-line-4)">&#x27;GLP-1s&#160;are&#160;intended&#160;to&#160;be&#160;taken&#160;long-term&#160;to&#160;fully&#160;achieve&#160;their&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="117.6" textLength="12.2" clip-path="url(#terminal-2374931218-line-4)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="142" textLength="1122.4" clip-path="url(#terminal-2374931218-line-5)">benefits.&#160;This&#160;means&#160;that&#160;GLP-1&#160;users&#160;may&#160;experience&#160;health&#160;benefits&#160;but&#160;will&#160;be&#160;required&#160;to</text><text class="terminal-2374931218-r2" x="1366.4" y="142" textLength="12.2" clip-path="url(#terminal-2374931218-line-5)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="166.4" textLength="1122.4" clip-path="url(#terminal-2374931218-line-6)">use&#160;these&#160;high-cost&#160;treatments&#160;on&#160;an&#160;ongoing&#160;basis,&#160;placing&#160;GLP‑1s&#160;among&#160;the&#160;most&#160;expensive&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="166.4" textLength="12.2" clip-path="url(#terminal-2374931218-line-6)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="190.8" textLength="1049.2" clip-path="url(#terminal-2374931218-line-7)">chronic&#160;medications&#160;employers&#160;cover&#160;on&#160;a&#160;recurring&#160;basis.&#160;These&#160;prices&#160;have&#160;immediate&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="190.8" textLength="12.2" clip-path="url(#terminal-2374931218-line-7)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="215.2" textLength="1122.4" clip-path="url(#terminal-2374931218-line-8)">implications&#160;for&#160;pharmacy&#160;benefit&#160;budgets,&#160;especially&#160;as&#160;utilization&#160;accelerates.&#160;According&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="215.2" textLength="12.2" clip-path="url(#terminal-2374931218-line-8)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="239.6" textLength="1122.4" clip-path="url(#terminal-2374931218-line-9)">to&#160;the&#160;International&#160;Foundation&#160;of&#160;Employee&#160;Benefit&#160;Plans,&#160;GLP‑1&#160;prescriptions&#160;accounted&#160;for</text><text class="terminal-2374931218-r2" x="1366.4" y="239.6" textLength="12.2" clip-path="url(#terminal-2374931218-line-9)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="264" textLength="1049.2" clip-path="url(#terminal-2374931218-line-10)">10.5%&#160;of&#160;annual&#160;pharmacy&#160;claims&#160;in&#160;2025&#160;across&#160;many&#160;employer‑sponsored&#160;plans,&#160;a&#160;sharp&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="264" textLength="12.2" clip-path="url(#terminal-2374931218-line-10)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="288.4" textLength="1061.4" clip-path="url(#terminal-2374931218-line-11)">increase&#160;from&#160;6.9%&#160;in&#160;2023.&#160;The&#160;effect&#160;on&#160;health&#160;plan&#160;premiums&#160;is&#160;equally&#160;significant.&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="288.4" textLength="12.2" clip-path="url(#terminal-2374931218-line-11)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="312.8" textLength="1085.8" clip-path="url(#terminal-2374931218-line-12)">According&#160;to&#160;the&#160;Employee&#160;Benefit&#160;Research&#160;Institute,&#160;simulation&#160;modeling&#160;indicates&#160;that&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="312.8" textLength="12.2" clip-path="url(#terminal-2374931218-line-12)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="337.2" textLength="195.2" clip-path="url(#terminal-2374931218-line-13)">expanding&#160;GLP‑1&#160;</text><text class="terminal-2374931218-r4" x="414.8" y="337.2" textLength="12.2" clip-path="url(#terminal-2374931218-line-13)">[</text><text class="terminal-2374931218-r4" x="427" y="337.2" textLength="36.6" clip-path="url(#terminal-2374931218-line-13)">...</text><text class="terminal-2374931218-r4" x="463.6" y="337.2" textLength="12.2" clip-path="url(#terminal-2374931218-line-13)">]</text><text class="terminal-2374931218-r4" x="475.8" y="337.2" textLength="573.4" clip-path="url(#terminal-2374931218-line-13)">&#160;prevalence&#160;of&#160;discontinuation&#160;versus&#160;those...&#x27;</text><text class="terminal-2374931218-r2" x="1049.2" y="337.2" textLength="24.4" clip-path="url(#terminal-2374931218-line-13)">,&#160;</text><text class="terminal-2374931218-r5" x="1073.6" y="337.2" textLength="36.6" clip-path="url(#terminal-2374931218-line-13)">...</text><text class="terminal-2374931218-r6" x="1110.2" y="337.2" textLength="12.2" clip-path="url(#terminal-2374931218-line-13)">}</text><text class="terminal-2374931218-r6" x="1122.4" y="337.2" textLength="12.2" clip-path="url(#terminal-2374931218-line-13)">]</text><text class="terminal-2374931218-r2" x="1366.4" y="337.2" textLength="12.2" clip-path="url(#terminal-2374931218-line-13)">
+</text><text class="terminal-2374931218-r7" x="109.8" y="361.6" textLength="97.6" clip-path="url(#terminal-2374931218-line-14)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-2374931218-r2" x="207.4" y="361.6" textLength="524.6" clip-path="url(#terminal-2374931218-line-14)">&#160;deep_agent.search.tavily&#160;|&#160;Tavily&#160;search:&#160;</text><text class="terminal-2374931218-r4" x="732" y="361.6" textLength="500.2" clip-path="url(#terminal-2374931218-line-14)">&#x27;budget&#160;impact&#160;analysis&#160;GLP-1&#160;drugs&#160;2023&#x27;</text><text class="terminal-2374931218-r6" x="1244.4" y="361.6" textLength="12.2" clip-path="url(#terminal-2374931218-line-14)">(</text><text class="terminal-2374931218-r5" x="1256.6" y="361.6" textLength="36.6" clip-path="url(#terminal-2374931218-line-14)">max</text><text class="terminal-2374931218-r2" x="1293.2" y="361.6" textLength="12.2" clip-path="url(#terminal-2374931218-line-14)">=</text><text class="terminal-2374931218-r8" x="1305.4" y="361.6" textLength="12.2" clip-path="url(#terminal-2374931218-line-14)">6</text><text class="terminal-2374931218-r6" x="1317.6" y="361.6" textLength="12.2" clip-path="url(#terminal-2374931218-line-14)">)</text><text class="terminal-2374931218-r2" x="1366.4" y="361.6" textLength="12.2" clip-path="url(#terminal-2374931218-line-14)">
+</text><text class="terminal-2374931218-r3" x="0" y="386" textLength="97.6" clip-path="url(#terminal-2374931218-line-15)">21:57:50</text><text class="terminal-2374931218-r7" x="109.8" y="386" textLength="97.6" clip-path="url(#terminal-2374931218-line-15)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-2374931218-r2" x="207.4" y="386" textLength="536.8" clip-path="url(#terminal-2374931218-line-15)">&#160;deep_agent.search.tavily&#160;|&#160;Tavily&#160;returned&#160;</text><text class="terminal-2374931218-r8" x="744.2" y="386" textLength="12.2" clip-path="url(#terminal-2374931218-line-15)">6</text><text class="terminal-2374931218-r2" x="756.4" y="386" textLength="158.6" clip-path="url(#terminal-2374931218-line-15)">&#160;results&#160;for&#160;</text><text class="terminal-2374931218-r4" x="915" y="386" textLength="427" clip-path="url(#terminal-2374931218-line-15)">&#x27;budget&#160;impact&#160;analysis&#160;GLP-1&#160;drugs</text><text class="terminal-2374931218-r2" x="1366.4" y="386" textLength="12.2" clip-path="url(#terminal-2374931218-line-15)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="410.4" textLength="61" clip-path="url(#terminal-2374931218-line-16)">2023&#x27;</text><text class="terminal-2374931218-r2" x="1366.4" y="410.4" textLength="12.2" clip-path="url(#terminal-2374931218-line-16)">
+</text><text class="terminal-2374931218-r7" x="109.8" y="434.8" textLength="97.6" clip-path="url(#terminal-2374931218-line-17)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-2374931218-r2" x="207.4" y="434.8" textLength="585.6" clip-path="url(#terminal-2374931218-line-17)">&#160;celery.app.trace&#160;|&#160;Task&#160;deep_agent.search_query</text><text class="terminal-2374931218-r6" x="793" y="434.8" textLength="12.2" clip-path="url(#terminal-2374931218-line-17)">[</text><text class="terminal-2374931218-r9" x="805.2" y="434.8" textLength="439.2" clip-path="url(#terminal-2374931218-line-17)">a2a4812d-3d12-4834-b3f5-a62a3174ca10</text><text class="terminal-2374931218-r6" x="1244.4" y="434.8" textLength="12.2" clip-path="url(#terminal-2374931218-line-17)">]</text><text class="terminal-2374931218-r2" x="1366.4" y="434.8" textLength="12.2" clip-path="url(#terminal-2374931218-line-17)">
+</text><text class="terminal-2374931218-r2" x="109.8" y="459.2" textLength="268.4" clip-path="url(#terminal-2374931218-line-18)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;succeeded&#160;in&#160;</text><text class="terminal-2374931218-r8" x="378.2" y="459.2" textLength="24.4" clip-path="url(#terminal-2374931218-line-18)">4.</text><text class="terminal-2374931218-r2" x="402.6" y="459.2" textLength="219.6" clip-path="url(#terminal-2374931218-line-18)">106792091995885s:&#160;</text><text class="terminal-2374931218-r6" x="622.2" y="459.2" textLength="12.2" clip-path="url(#terminal-2374931218-line-18)">[</text><text class="terminal-2374931218-r6" x="634.4" y="459.2" textLength="12.2" clip-path="url(#terminal-2374931218-line-18)">{</text><text class="terminal-2374931218-r4" x="646.6" y="459.2" textLength="85.4" clip-path="url(#terminal-2374931218-line-18)">&#x27;title&#x27;</text><text class="terminal-2374931218-r2" x="732" y="459.2" textLength="24.4" clip-path="url(#terminal-2374931218-line-18)">:&#160;</text><text class="terminal-2374931218-r4" x="756.4" y="459.2" textLength="585.6" clip-path="url(#terminal-2374931218-line-18)">&#x27;Assessing&#160;cost-effectiveness&#160;of&#160;GLP-1&#160;drugs&#160;in&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="459.2" textLength="12.2" clip-path="url(#terminal-2374931218-line-18)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="483.6" textLength="597.8" clip-path="url(#terminal-2374931218-line-19)">a&#160;changing&#160;market&#160;|&#160;Managed&#160;Healthcare&#160;Executive&#x27;</text><text class="terminal-2374931218-r2" x="817.4" y="483.6" textLength="24.4" clip-path="url(#terminal-2374931218-line-19)">,&#160;</text><text class="terminal-2374931218-r4" x="841.8" y="483.6" textLength="61" clip-path="url(#terminal-2374931218-line-19)">&#x27;url&#x27;</text><text class="terminal-2374931218-r2" x="902.8" y="483.6" textLength="439.2" clip-path="url(#terminal-2374931218-line-19)">:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="483.6" textLength="12.2" clip-path="url(#terminal-2374931218-line-19)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="508" textLength="1122.4" clip-path="url(#terminal-2374931218-line-20)">&#x27;https://www.managedhealthcareexecutive.com/view/assessing-cost-effectiveness-of-glp-1-drugs</text><text class="terminal-2374931218-r2" x="1366.4" y="508" textLength="12.2" clip-path="url(#terminal-2374931218-line-20)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="532.4" textLength="268.4" clip-path="url(#terminal-2374931218-line-21)">-in-a-changing-market&#x27;</text><text class="terminal-2374931218-r2" x="488" y="532.4" textLength="24.4" clip-path="url(#terminal-2374931218-line-21)">,&#160;</text><text class="terminal-2374931218-r4" x="512.4" y="532.4" textLength="109.8" clip-path="url(#terminal-2374931218-line-21)">&#x27;snippet&#x27;</text><text class="terminal-2374931218-r2" x="622.2" y="532.4" textLength="183" clip-path="url(#terminal-2374931218-line-21)">:&#160;&#x27;Modeling&#160;at&#160;</text><text class="terminal-2374931218-r8" x="805.2" y="532.4" textLength="48.8" clip-path="url(#terminal-2374931218-line-21)">2023</text><text class="terminal-2374931218-r2" x="854" y="532.4" textLength="488" clip-path="url(#terminal-2374931218-line-21)">&#160;net&#160;pricing&#160;estimated&#160;semaglutide&#160;would</text><text class="terminal-2374931218-r2" x="1366.4" y="532.4" textLength="12.2" clip-path="url(#terminal-2374931218-line-21)">
+</text><text class="terminal-2374931218-r2" x="109.8" y="556.8" textLength="195.2" clip-path="url(#terminal-2374931218-line-22)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;avert&#160;&gt;</text><text class="terminal-2374931218-r8" x="305" y="556.8" textLength="36.6" clip-path="url(#terminal-2374931218-line-22)">358</text><text class="terminal-2374931218-r2" x="341.6" y="556.8" textLength="12.2" clip-path="url(#terminal-2374931218-line-22)">,</text><text class="terminal-2374931218-r8" x="353.8" y="556.8" textLength="36.6" clip-path="url(#terminal-2374931218-line-22)">000</text><text class="terminal-2374931218-r2" x="390.4" y="556.8" textLength="951.6" clip-path="url(#terminal-2374931218-line-22)">&#160;cardiovascular&#160;events/deaths,&#160;saving&#160;~$15B&#160;in&#160;cardiovascular&#160;care&#160;plus&#160;~$8B&#160;&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="556.8" textLength="12.2" clip-path="url(#terminal-2374931218-line-22)">
+</text><text class="terminal-2374931218-r2" x="109.8" y="581.2" textLength="1232.2" clip-path="url(#terminal-2374931218-line-23)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;in&#160;other&#160;care,&#160;but&#160;adding&#160;~$344B&#160;lifetime&#160;drug&#160;spend.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="581.2" textLength="12.2" clip-path="url(#terminal-2374931218-line-23)">
+</text><text class="terminal-2374931218-r2" x="109.8" y="605.6" textLength="1232.2" clip-path="url(#terminal-2374931218-line-24)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Cost-effectiveness&#160;is&#160;highly&#160;price-sensitive;&#160;lower&#160;U.S.&#160;prices,&#160;particularly&#160;approaching&#160;&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="605.6" textLength="12.2" clip-path="url(#terminal-2374931218-line-24)">
+</text><text class="terminal-2374931218-r2" x="109.8" y="630" textLength="1232.2" clip-path="url(#terminal-2374931218-line-25)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;European&#160;levels,&#160;shift&#160;semaglutide&#160;toward&#160;favorable&#160;value&#160;rather&#160;than&#160;a&#160;binary&#160;go/no-go&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="630" textLength="12.2" clip-path="url(#terminal-2374931218-line-25)">
+</text><text class="terminal-2374931218-r2" x="109.8" y="654.4" textLength="1232.2" clip-path="url(#terminal-2374931218-line-26)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;determination.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="654.4" textLength="12.2" clip-path="url(#terminal-2374931218-line-26)">
+</text><text class="terminal-2374931218-r2" x="109.8" y="678.8" textLength="1232.2" clip-path="url(#terminal-2374931218-line-27)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Patient&#160;affordability&#160;can&#160;be&#160;acceptable&#160;with&#160;insurance&#160;coverage&#160;and&#160;modest&#160;copays,&#160;yet&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="678.8" textLength="12.2" clip-path="url(#terminal-2374931218-line-27)">
+</text><text class="terminal-2374931218-r2" x="109.8" y="703.2" textLength="1232.2" clip-path="url(#terminal-2374931218-line-28)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;system-level&#160;affordability&#160;may&#160;remain&#160;problematic&#160;given&#160;the&#160;aggregate&#160;eligible&#160;population&#160;&#160;&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="703.2" textLength="12.2" clip-path="url(#terminal-2374931218-line-28)">
+</text><text class="terminal-2374931218-r2" x="109.8" y="727.6" textLength="475.8" clip-path="url(#terminal-2374931218-line-29)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;and&#160;short-term&#160;budget&#160;impact.&#160;</text><text class="terminal-2374931218-r6" x="585.6" y="727.6" textLength="12.2" clip-path="url(#terminal-2374931218-line-29)">[</text><text class="terminal-2374931218-r5" x="597.8" y="727.6" textLength="36.6" clip-path="url(#terminal-2374931218-line-29)">...</text><text class="terminal-2374931218-r6" x="634.4" y="727.6" textLength="12.2" clip-path="url(#terminal-2374931218-line-29)">]</text><text class="terminal-2374931218-r2" x="646.6" y="727.6" textLength="390.4" clip-path="url(#terminal-2374931218-line-29)">&#160;Q:&#160;Your&#160;analysis&#160;was&#160;done&#160;with&#160;</text><text class="terminal-2374931218-r8" x="1037" y="727.6" textLength="48.8" clip-path="url(#terminal-2374931218-line-29)">2023</text><text class="terminal-2374931218-r2" x="1085.8" y="727.6" textLength="256.2" clip-path="url(#terminal-2374931218-line-29)">&#160;prices,&#160;and&#160;this&#160;is&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="727.6" textLength="12.2" clip-path="url(#terminal-2374931218-line-29)">
+</text><text class="terminal-2374931218-r2" x="109.8" y="752" textLength="1232.2" clip-path="url(#terminal-2374931218-line-30)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;a&#160;market&#160;that&#160;is&#160;changing&#160;quickly.&#160;Would&#160;the&#160;outcome&#160;of&#160;the&#160;analysis&#160;change&#160;if&#160;today’s&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="752" textLength="12.2" clip-path="url(#terminal-2374931218-line-30)">
+</text><text class="terminal-2374931218-r2" x="109.8" y="776.4" textLength="1232.2" clip-path="url(#terminal-2374931218-line-31)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;prices&#160;were&#160;used?&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="776.4" textLength="12.2" clip-path="url(#terminal-2374931218-line-31)">
+</text><text class="terminal-2374931218-r2" x="1366.4" y="800.8" textLength="12.2" clip-path="url(#terminal-2374931218-line-32)">
+</text><text class="terminal-2374931218-r2" x="109.8" y="825.2" textLength="170.8" clip-path="url(#terminal-2374931218-line-33)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Kazi:</text><text class="terminal-2374931218-r5" x="280.6" y="825.2" textLength="36.6" clip-path="url(#terminal-2374931218-line-33)">...</text><text class="terminal-2374931218-r2" x="317.2" y="825.2" textLength="36.6" clip-path="url(#terminal-2374931218-line-33)">&#x27;,&#160;</text><text class="terminal-2374931218-r5" x="353.8" y="825.2" textLength="36.6" clip-path="url(#terminal-2374931218-line-33)">...</text><text class="terminal-2374931218-r6" x="390.4" y="825.2" textLength="12.2" clip-path="url(#terminal-2374931218-line-33)">}</text><text class="terminal-2374931218-r6" x="402.6" y="825.2" textLength="12.2" clip-path="url(#terminal-2374931218-line-33)">]</text><text class="terminal-2374931218-r2" x="1366.4" y="825.2" textLength="12.2" clip-path="url(#terminal-2374931218-line-33)">
+</text><text class="terminal-2374931218-r7" x="109.8" y="849.6" textLength="97.6" clip-path="url(#terminal-2374931218-line-34)">INFO&#160;&#160;&#160;&#160;</text><text class="terminal-2374931218-r2" x="207.4" y="849.6" textLength="524.6" clip-path="url(#terminal-2374931218-line-34)">&#160;deep_agent.search.tavily&#160;|&#160;Tavily&#160;search:&#160;</text><text class="terminal-2374931218-r4" x="732" y="849.6" textLength="573.4" clip-path="url(#terminal-2374931218-line-34)">&#x27;healthcare&#160;budget&#160;implications&#160;GLP-1&#160;receptor&#160;</text><text class="terminal-2374931218-r2" x="1366.4" y="849.6" textLength="12.2" clip-path="url(#terminal-2374931218-line-34)">
+</text><text class="terminal-2374931218-r4" x="219.6" y="874" textLength="109.8" clip-path="url(#terminal-2374931218-line-35)">agonists&#x27;</text><text class="terminal-2374931218-r6" x="341.6" y="874" textLength="12.2" clip-path="url(#terminal-2374931218-line-35)">(</text><text class="terminal-2374931218-r5" x="353.8" y="874" textLength="36.6" clip-path="url(#terminal-2374931218-line-35)">max</text><text class="terminal-2374931218-r2" x="390.4" y="874" textLength="12.2" clip-path="url(#terminal-2374931218-line-35)">=</text><text class="terminal-2374931218-r8" x="402.6" y="874" textLength="12.2" clip-path="url(#terminal-2374931218-line-35)">6</text><text class="terminal-2374931218-r6" x="414.8" y="874" textLength="12.2" clip-path="url(#terminal-2374931218-line-35)">)</text><text class="terminal-2374931218-r2" x="1366.4" y="874" textLength="12.2" clip-path="url(#terminal-2374931218-line-35)">
+</text>
+    </g>
+    </g>
+</svg>
