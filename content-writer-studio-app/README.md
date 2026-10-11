@@ -51,6 +51,66 @@ library is searchable semantically and exportable to PDF, Word and Markdown.
   **edit-retention** score (how close the saved article stays to the AI draft).
   Activates automatically when Langfuse keys are set; a no-op otherwise.
 
+## Screenshots
+
+Real run of the app, with real OpenAI calls.
+
+### Getting started
+
+![Login](screenshots/01_login.png)
+*Login*
+
+![Create an account](screenshots/02_register.png)
+*Create an account*
+
+![Empty library](screenshots/03_dashboard_empty.png)
+*Empty library*
+
+### Generate
+
+![Generate form](screenshots/04_generate_form.png)
+*Generate form*
+
+![Brief, audience and SEO keywords filled in](screenshots/05_generate_form_filled.png)
+*Brief, audience and SEO keywords filled in*
+
+![Generating](screenshots/06_generating.png)
+*Generating*
+
+![Generated article with title, tags, summary and sentiment](screenshots/07_generated_result.png)
+*Generated article with title, tags, summary and sentiment*
+
+![Generated article (full page)](screenshots/08_generated_result_full.png)
+*Generated article (full page)*
+
+### Edit and export
+
+![Editor](screenshots/09_editor.png)
+*Editor*
+
+![Editor (full page) with SEO, tags and sentiment](screenshots/10_editor_full.png)
+*Editor (full page) with SEO, tags and sentiment*
+
+![Export menu (PDF, DOCX, Markdown)](screenshots/11_export_menu.png)
+*Export menu (PDF, DOCX, Markdown)*
+
+![AI banner image](screenshots/12_banner_generated.png)
+*AI banner image*
+
+### Library and settings
+
+![Library card with banner](screenshots/13_dashboard_with_article.png)
+*Library card with banner*
+
+![Semantic search](screenshots/14_semantic_search.png)
+*Semantic search*
+
+![Writing-style references](screenshots/15_settings_style_references.png)
+*Writing-style references*
+
+![Dark mode](screenshots/16_dark_mode_dashboard.png)
+*Dark mode*
+
 ## Tech stack
 
 | Layer      | Technology                                                        |
