@@ -60,6 +60,112 @@ chat, translation, summarizing and fact-checking. Every data tool uses a
 Optional: `CALENDARIFIC_API_KEY` improves the festival-date tool (otherwise it
 falls back to the LLM). See [`.env.example`](.env.example).
 
+## 📸 Screenshots
+
+### Chat
+
+![Welcome screen](screenshots/01_home.png)
+*Welcome screen*
+
+![Sidebar listing all 23 tools](screenshots/02_tools_list.png)
+*Sidebar listing all 23 tools*
+
+![Currency conversion through chat](screenshots/03_currency_chat.png)
+*Currency conversion through chat*
+
+![Live weather through chat](screenshots/04_weather_chat.png)
+*Live weather through chat*
+
+![This-day-in-history through chat](screenshots/05_history_chat.png)
+*This-day-in-history through chat*
+
+### Tools
+
+Every tool run from its direct form in the sidebar.
+
+#### Research
+
+![web_search](screenshots/tools/01_web_search.png)
+*`web_search`*
+
+![deep_web_search](screenshots/tools/02_deep_web_search.png)
+*`deep_web_search`*
+
+![verify_claim](screenshots/tools/03_verify_claim.png)
+*`verify_claim`*
+
+![save_research](screenshots/tools/04_save_research.png)
+*`save_research`*
+
+![get_news_headlines](screenshots/tools/05_get_news_headlines.png)
+*`get_news_headlines`*
+
+#### Reference, weather & environment
+
+![get_country_summary](screenshots/tools/06_get_country_summary.png)
+*`get_country_summary`*
+
+![get_time_in_country](screenshots/tools/07_get_time_in_country.png)
+*`get_time_in_country`*
+
+![get_current_temperature](screenshots/tools/08_get_current_temperature.png)
+*`get_current_temperature`*
+
+![get_air_quality](screenshots/tools/09_get_air_quality.png)
+*`get_air_quality`*
+
+#### Converters & system
+
+![convert_currency](screenshots/tools/10_convert_currency.png)
+*`convert_currency`*
+
+![convert_measurement](screenshots/tools/11_convert_measurement.png)
+*`convert_measurement`*
+
+![get_system_health](screenshots/tools/12_get_system_health.png)
+*`get_system_health`*
+
+#### Language
+
+![translate_text](screenshots/tools/13_translate_text.png)
+*`translate_text`*
+
+![summarize_text](screenshots/tools/14_summarize_text.png)
+*`summarize_text`*
+
+#### Notes
+
+![create_note](screenshots/tools/15_create_note.png)
+*`create_note`*
+
+![list_notes](screenshots/tools/16_list_notes.png)
+*`list_notes`*
+
+![search_notes](screenshots/tools/17_search_notes.png)
+*`search_notes`*
+
+![delete_note](screenshots/tools/18_delete_note.png)
+*`delete_note`*
+
+#### Calendar
+
+![get_events_on_date](screenshots/tools/19_get_events_on_date.png)
+*`get_events_on_date`*
+
+![get_festival_date](screenshots/tools/20_get_festival_date.png)
+*`get_festival_date`*
+
+![get_public_holidays](screenshots/tools/21_get_public_holidays.png)
+*`get_public_holidays`*
+
+![calculate_age](screenshots/tools/22_calculate_age.png)
+*`calculate_age`*
+
+#### Media
+
+![resize_image](screenshots/tools/23_resize_image.png)
+*`resize_image`*
+
 ## 🚀 Quick start
 
 ```bash
