@@ -55,6 +55,43 @@ with `WEB_RESEARCH=false`.
 
 ---
 
+## 📸 Screenshots
+
+A real run: Class 8 · Mathematics · *Quadratic Equations* · 4 weeks.
+
+### Input and live agent progress
+
+![Landing page](screenshots/01_home.png)
+*Landing page*
+
+![Form filled in](screenshots/02_form_filled.png)
+*Student details entered*
+
+![Agents running](screenshots/03_agents_running.png)
+*Multi-agent pipeline streaming live progress*
+
+### Generated study plan
+
+![Plan overview](screenshots/04_plan_overview.png)
+*Overview: goals, prerequisites and study tips, with Markdown / JSON / PDF export*
+
+![Curriculum](screenshots/05_curriculum.png)
+*Curriculum: progressive learning modules*
+
+![Schedule](screenshots/06_schedule.png)
+*Schedule: week-by-week timetable*
+
+![Resources](screenshots/07_resources.png)
+*Resources: curated videos, books and articles*
+
+![Assessments](screenshots/08_assessment.png)
+*Assessments: practice sets and checkpoints*
+
+![Quiz](screenshots/09_quiz.png)
+*Quiz: question bank with answers*
+
+---
+
 ## 🚀 Getting started
 
 ### 1. Backend (FastAPI)
